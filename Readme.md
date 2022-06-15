@@ -10,6 +10,7 @@
         - [Serviço Social](#serviço-social)
     - [Apoio Pedagógico e Acadêmico](#apoio-pedagógico-e-acadêmico)
         - [Programa de Orientação Acadêmica (POA)](#programa-de-orientação-acadêmica-poa)
+            - [Responsabilidades](#responsabilidades)
         - [Mobilidade Acadêmica](#mobilidade-acadêmica)
             - [Programa Andifes](#programa-andifes)
             - [Programa PROINTER](#programa-prointer)
@@ -53,6 +54,10 @@
         - [Teses e dissertações](#teses-e-dissertações)
         - [Outros recursos digitais](#outros-recursos-digitais)
         - [Biblioteca acessível](#biblioteca-acessível)
+    - [Acessibilidade Física](#acessibilidade-física)
+    - [Espaço de Trabalho](#espaço-de-trabalho)
+    - [Recursos Humanos](#recursos-humanos)
+    - [Comitê de Ética em Pesquisa - CEP](#comitê-de-ética-em-pesquisa---cep)
 [](toc)
 
 
@@ -175,6 +180,7 @@ Diante desse cenário, foi criado o Programa de Orientação Acadêmica (POA), d
 
 São duas modalidades de acompanhamento. A individual, onde cada aluno participante do programa tem um orientador específico (docente ou servidor técnico-administrativo), com quem mantém encontros regulares. O planejamento é realizado de forma singular, pensado a partir da realidade de cada aluno. E a orientação em grupo, nas quais, periodicamente, são realizados encontros para trabalhar temáticas relacionadas à trajetória acadêmica (exemplos de temáticas: “Mercado de Trabalho x Área Acadêmica”, “Encontros Universitários: Por que participar?”, “Desmistificando a Universidade”, dentre outras).
 
+##### Responsabilidades
 No POA, articulam-se os membros da comunidade acadêmica em diferentes níveis. São atribuições dos orientadores acadêmicos: pensar, junto ao aluno, considerando a programação acadêmica do seu curso, um fluxo curricular compatível com seus interesses e possibilidades de desempenho acadêmico; orientar a tomada de decisões relativas à matrícula; apresentar aos alunos o projeto pedagógico do curso de graduação e a estrutura universitária; encontrar-se pelo menos 2 vezes por semestre com seus alunos; e entregar à secretaria acadêmica, ao final de cada semestre letivo, relatório das atividades realizadas por cada aluno.
 
 Os alunos que participam do programa têm o compromisso de: manter contato com o orientador para o agendamento dos encontros; participar ativamente da construção do plano de estudos e de outras atividades propostas pelo orientador, atuando como protagonista no processo; agendar novos encontros com o orientador sempre que julgar necessário.
@@ -484,3 +490,29 @@ Neste contexto, os alunos com necessidades especiais podem contar com os seguint
 Em relação a recursos e tecnologias assistivas, a Biblioteca Universitária disponibiliza: a) nos terminais de consulta online, programas leitores de telas; b) recurso de transcrição de textos em Braille, com impressoras Braille à disposição dos alunos (em Fortaleza); c) recurso de acessibilidade linguística, através do projeto “Descobrindo a Biblioteca em Libras”, com a apresentação dos serviços oferecidos pelas bibliotecas para a comunidade acadêmica por uma intérprete da Língua Brasileira de Sinais (Libras).
 
 Especificamente na BCQ, os alunos com deficiência visual têm acesso a um equipamento para leitura autônoma, instalado na biblioteca. Em relação à acessibilidade arquitetônica, a biblioteca tem portas de acesso largas, balcões e mesas de estudo rebaixados, espaço de circulação amplo entre prateleiras, placas com inscrições em Braille e piso tátil.
+
+### Acessibilidade Física
+O campus tem em sua infraestrutura a facilitação da acessibilidade a pessoas com dificuldades de locomoção ou visão, contando com piso tátil, plataformas elevatórias, portas largas de acesso às salas e laboratórios, banheiros com cabine específica para deficientes e plaquetas com inscrições em braile, além de rampas de acesso ou mesmo ausência de degraus desde o estacionamento até os ambientes térreos. Além disso, trabalha em estreita ligação com a secretaria, no acompanhamento aos discentes com deficiência.
+
+Para reduzir o efeito da pandemia nos alunos com problemas de acesso à infraestrutura, em 2020 foi criada a Ação de Inclusão Digital, com o objetivo de garantir o acesso contínuo dos estudantes aos conteúdos acadêmicos disponibilizados remotamente. Consistiu, inicialmente, no fornecimento de chip de telefonia celular com plano mensal de dados móveis (3G/4G) de 20 GB (vinte gigabytes), por um período de 6 (seis) meses, a partir de julho de 2020, aos estudantes em situação de vulnerabilidade socioeconômica. Posteriormente, a adesão ao Programa Alunos Conectados, da parceria entre o Ministério da Educação (MEC) e a Rede Nacional de Ensino e Pesquisa (RNP), possibilitou a contratação de serviço contínuo de acesso à internet de até 20 GB por mês, igualmente por meio da cessão de chip. 
+
+O Auxílio Inclusão Digital foi outro benefício criado também em 2020 que consistiu em um valor pecuniário único de R$ 1.500, destinado a estudantes em situação de vulnerabilidade socioeconômica para a compra de computadores ou tablets. Em 2020, em Quixadá, 74 alunos receberam os chips de telefonia e 82 se beneficiaram do auxílio para a compra de computadores ou tablets.
+
+### Espaço de Trabalho
+Os docentes do campus desfrutam de vários ambientes para desenvolverem seu trabalho. Além dos espaços didáticos (salas de aula e laboratórios), o campus disponibiliza para os docentes uma sala climatizada, na qual eles podem executar ações acadêmicas extra-classe (planejamento, acompanhamento, orientação, pesquisa). Nos blocos I a IV, há 37 gabinetes para dois professores, comportando, confortavelmente, os professores do campus. Nos gabinetes, o espaço individual de trabalho de cada docente conta com mesa, cadeira para si e para alunos em atendimento, armário com chave, garantindo privacidade para uso dos recursos, para o atendimento a discentes e orientandos, e para a guarda de material e equipamentos pessoais, com segurança.
+
+Para cada um dos cursos de graduação do campus, há uma sala da coordenação ampla e climatizada, onde trabalham o Coordenador e o Vice coordenador. Nas coordenações, dispõe-se de mesas, cadeiras para os docentes e para os discentes, armários com chave e telefones VoIP. O ambiente da coordenação possibilita o atendimento individual e em pequenos grupos.
+
+Além das salas de trabalho, os coordenadores e docentes podem usufruir de outros ambientes de apoio às ações acadêmicas como sala de seminários, sala de reunião, sala de videoconferência e sala multiuso. Eles também têm acesso a equipamentos como projetores e notebooks.
+
+### Recursos Humanos
+**_O Campus da UFC em Quixadá, onde é ofertado o curso de Sistemas de Informação, tem apoio dos cursos de Tecnólogo em Redes de Computadores, Bacharelado em Engenharia de Software, Bacharelado em Ciências da Computação, Engenharia da Computação e Design Digital já instalados e em funcionamento._** O apoio destes cursos se dá de várias formas, enfatizando-se o corpo docente já disponível e suas qualidades, bem como a infraestrutura já instalada ou em fase de instalação.
+
+O corpo docente do Campus da UFC em Quixadá, em 2022, está formado por [59 docentes](https://www.quixada.ufc.br/docente/) do quadro efetivo (58 em regime de dedicação exclusiva (DE) e 1 professor em regime 40 hs) e 1 professora substituta. Dos efetivos, 45 são doutores e 14 são mestres. Dos 14 docentes mestres, 9 são doutorandos. Ao longo de doze anos de gestão (2011-2022), o corpo docente do campus saltou de um universo de 03 para 45 doutores.
+
+Em relação ao estímulo à titulação dos docentes, foi aprovada a Resolução n° 01/Conselho do Campus de Quixadá, de 15 de maio de 2014, para disciplinar os afastamentos de docentes para mestrado, doutorado e pós-doutorado. Salienta-se que foi desenvolvido no campus o Sistema de Afastamento ([SIAF](https://sistemas.quixada.ufc.br/siaf/login)), criado para gerenciar o afastamento dos docentes. Neste sistema, os docentes fazem uma solicitação de reserva de afastamento e podem acompanhar, em tempo real, sua posição em um ranking construído a partir das regras de afastamento definidas na Resolução.
+
+Quanto ao quadro de servidores técnico-administrativos, em 2022, já se dispunha de 29 servidores [técnico-administrativos no campus](https://www.quixada.ufc.br/sta/). Destes, 16 são cargos de nível médio e 13 de nível superior. Em relação à escolaridade, 02 tem o nível médio, 10 possuem graduação completa, 12 são especialistas e 05 são mestres, demonstrando a qualidade do corpo técnico-administrativo do campus.
+
+### Comitê de Ética em Pesquisa - CEP
+O Comitê de Ética em Pesquisa da UFC (CEP/UFC/PROPESQ), vinculado à Pró-reitoria de Pesquisa e Pós-Graduação, foi instituído em 20 de outubro de 2005. É credenciado junto à Comissão Nacional de Ética em Pesquisa (CONEP) do Ministério da Saúde, e constitui um colegiado interdisciplinar, independente e normativo, com “munus público”, sem fim lucrativo, de caráter consultivo, deliberativo e educativo, criado para defender os interesses dos participantes da pesquisa em sua integridade e dignidade, que obedece aos princípios da Bioética: autonomia, não maleficência, beneficência e justiça e visa contribuir no desenvolvimento da pesquisa dentro de padrões éticos (Normas e Diretrizes Regulamentadoras da Pesquisa Envolvendo Seres Humanos – Resolução CNS 466/12, II.4). O CEP é responsável pela avaliação e acompanhamento dos aspectos éticos de todas as pesquisas envolvendo seres humanos. No campus, a Coordenadoria de Pesquisa, além de incentivar, apoiar e acompanhar o desenvolvimento das atividades de pesquisa, apoia os contatos entre a comunidade acadêmica e o CEP/UFC/PROPESQ.
