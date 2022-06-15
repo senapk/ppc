@@ -22,6 +22,9 @@
         - [Programa de Iniciação à Docência (PID)](#programa-de-iniciação-à-docência-pid)
         - [Programa Institucional de Bolsas de Iniciação Científica (PIBIC)](#programa-institucional-de-bolsas-de-iniciação-científica-pibic)
         - [Programa de Bolsa Iniciação Acadêmica](#programa-de-bolsa-iniciação-acadêmica)
+        - [Bolsa de Incentivo ao Desporto](#bolsa-de-incentivo-ao-desporto)
+        - [Programa de Acolhimento e Incentivo à Permanência (PAIP)](#programa-de-acolhimento-e-incentivo-à-permanência-paip)
+    - [Assistência em Acessibilidade](#assistência-em-acessibilidade)
 [](toc)
 
 
@@ -36,11 +39,11 @@ Concomitantemente com a eleição do Coordenador de curso e segundo as mesmas no
 
 Nas faltas e impedimentos simultâneos do Coordenador e do Vice coordenador, a Coordenação do curso será exercida pelo professor mais antigo, entre os seus pares representantes de UC e, no caso de empate, pelo mais idoso.
 
-O Coordenador de curso exerce o seu mandato em dedicação exclusiva ou em regime de tempo integral (UFC, 2020). A Coordenação do curso de Sistemas de Informação é assessorada diretamente pela Secretaria Acadêmica do campus, com pelo menos um secretário dedicado ao curso.
+O Coordenador de curso exerce o seu mandato em dedicação exclusiva ou em regime de tempo integral (UFC, 2020). A Coordenação do curso é assessorada diretamente pela Secretaria Acadêmica do campus, com pelo menos um secretário dedicado ao curso.
 
 A Coordenação trabalha articuladamente com o Colegiado do curso, o NDE e os discentes, no compromisso com a melhoria contínua da qualidade do curso, atuando nas dimensões didáticas, pedagógicas, administrativas e políticas, desenvolvendo ações propositivas e proativas e favorecendo a integração e a melhoria contínua das atividades realizadas no curso.
 
-São as atribuições mais habituais da Coordenação do curso de Sistemas de Informação:
+São as atribuições mais habituais da Coordenação do curso:
 - **Matrícula**: durante o período de matrículas (regular e ajuste), o Coordenador e/ou o Vice observam, acompanham e orientam os alunos, tirando dúvidas sobre os componentes curriculares, auxiliando nas suas escolhas levando em consideração seus objetivos pessoais e procurando solucionar os problemas que porventura possam surgir, como a solicitação de vagas extras em componentes curriculares de outros cursos ou o reequilíbrio de número de vagas em disciplinas do curso.
 - **Atendimento aos discentes**: a Coordenação do curso mostra-se disponível para atender os alunos e orientá-los sobre questões de diferentes tipos, com relação e interferência na vida acadêmica dos discentes, como a composição das disciplinas a serem matriculadas no semestre e ao longo do curso, estímulo à participação em encontros científicos e nos processos avaliativos do curso, reclamações e sugestões sobre o andamento das aulas, a relação com professores, assuntos relacionados à estrutura do campus, orientação profissional e até problemas de ordem pessoal.
 - **Atendimento aos docentes**: os professores têm acesso facilitado à Coordenação e partilham com ela demandas relacionadas às atividades acadêmicas que desenvolvem. Para promover as potencialidades do corpo docente, na medida do possível, consulta os professores sobre suas preferências de disciplinas a cada início de semestre e comunica sobre eventos e congressos na área, que possam incentivar o desenvolvimento de pesquisa por parte dos docentes atuando no apoio em questões administrativas (como pedido de afastamento, progressão funcional, etc.)
@@ -57,11 +60,11 @@ Nas atividades da Coordenação há o exercício constante de promoção de uma 
 ### Colegiado do Curso
 Na UFC, o Colegiado é regido pelas resoluções CEPE/UFC, N° 03 de 29 de janeiro de 2016 (UFC, 2016) e CEPE/UFC, n.° 07 de 08 de abril de 1994 (UFC, 1994). O Colegiado é a instância máxima no plano deliberativo e consultivo do curso, onde são propostas, apreciadas e avaliadas as políticas e ações de gestão, e compõe, junto à Coordenação, a esfera administrativa do curso. 
 
-O Colegiado do curso é formado por representação docente através das Unidades Curriculares em que se desmembra o curso, com representantes eleitos por seus pares, e por representação estudantil, também com representantes eleitos por seus pares, estes na proporção de 1/5 (um quinto), arredondado para cima, do total de docentes representantes de unidades curriculares. No curso de Sistemas de Informação, o Colegiado é constituído por oito professores titulares e seus suplentes, além de um aluno titular e seu suplente, que se reúnem mensalmente, considerando-se como pré-agendadas a realização de reuniões ordinárias na última semana do mês. Caso seja necessário, reuniões extraordinárias podem ser marcadas.
+O Colegiado do curso é formado por representação docente através das Unidades Curriculares em que se desmembra o curso, com representantes eleitos por seus pares, e por representação estudantil, também com representantes eleitos por seus pares, estes na proporção de 1/5 (um quinto), arredondado para cima, do total de docentes representantes de unidades curriculares. No curso, **o Colegiado é constituído por oito professores titulares** e seus suplentes, além de um aluno titular e seu suplente, que se reúnem mensalmente, considerando-se como pré-agendadas a realização de reuniões ordinárias na última semana do mês. Caso seja necessário, reuniões extraordinárias podem ser marcadas.
 
 Todas as deliberações são registradas em ata que, juntamente com os demais documentos de trabalho do Colegiado, ficam disponíveis em arquivos online. Caso alguma deliberação necessite de aprovação superior, a Coordenação conduz à pauta, após discutida em Colegiado, para a próxima reunião do Conselho do campus, onde serão realizados os encaminhamentos necessários.
 
-Além das reuniões mensais, o Colegiado do curso de Sistemas de Informação amplia suas atividades de deliberação empregando recursos colaborativos online. A utilização de grupo de e-mails e pasta compartilhada agiliza as discussões e permite um aprofundamento em questões mais sensíveis que, sem a utilização desses recursos, não teriam possibilidade de serem debatidas, na mesma profundidade, durante as reuniões.
+Além das reuniões mensais, o Colegiado do curso amplia suas atividades de deliberação empregando recursos colaborativos online. A utilização de grupo de e-mails e pasta compartilhada agiliza as discussões e permite um aprofundamento em questões mais sensíveis que, sem a utilização desses recursos, não teriam possibilidade de serem debatidas, na mesma profundidade, durante as reuniões.
 
 Uma das importantes ações do Colegiado é deliberar a respeito da demanda por componentes curriculares do curso antes do início de cada semestre. Depois de definida como será a oferta de componentes curriculares, baseada na demanda, a Coordenação do curso cadastra as disciplinas correspondentes no sistema “Oferta Acadêmica”, criado pelo NPI, para auxiliar neste processo. O sistema tem funções como: importação das disciplinas ofertadas em semestres anteriores; solicitação de vagas em turmas compartilhadas entre os cursos; detalhamento das necessidades de cada disciplina, como aulas em laboratório, turmas divididas, indicação de professores, turnos preferenciais, horários e empilhamentos (horários combinados com outras disciplinas). 
 
@@ -76,21 +79,15 @@ Com caráter de instância autônoma, colegiada e interdisciplinar, vinculada a 
 
 De acordo com (UFC, 2012b), Artº 3, são atribuições do NDE:
 
-Avaliar, periodicamente, pelo menos a cada três anos no período do ciclo avaliativo do Sistema Nacional de Avaliação da Educação Superior (SINAES) e, sempre que necessário, elaborar propostas de atualização para o PPC e encaminhá-las para apreciação e aprovação do Colegiado do curso;
+- Avaliar, periodicamente, pelo menos a cada três anos no período do ciclo avaliativo do Sistema Nacional de Avaliação da Educação Superior (SINAES) e, sempre que necessário, elaborar propostas de atualização para o PPC e encaminhá-las para apreciação e aprovação do Colegiado do curso;
+- Fazer o acompanhamento curricular do curso, tendo em vista o cumprimento da missão e dos objetivos definidos em seu Projeto Pedagógico;
+- Zelar pela integração curricular interdisciplinar entre as diferentes atividades de ensino constantes no currículo;
+- Contribuir para a consolidação do perfil profissional do egresso do curso;
+- Indicar formas de incentivo ao desenvolvimento de linhas de pesquisa e extensão, oriundas de necessidades da graduação, de exigências do mundo do trabalho e afinadas com as políticas públicas relativas à área de conhecimento do curso;
+- Zelar pelo cumprimento das Diretrizes Curriculares Nacionais para os cursos de graduação;
+- Sugerir e fomentar ações voltadas para a formação e o desenvolvimento dos docentes vinculados ao curso.
 
-Fazer o acompanhamento curricular do curso, tendo em vista o cumprimento da missão e dos objetivos definidos em seu Projeto Pedagógico;
-
-Zelar pela integração curricular interdisciplinar entre as diferentes atividades de ensino constantes no currículo;
-
-Contribuir para a consolidação do perfil profissional do egresso do curso;
-
-Indicar formas de incentivo ao desenvolvimento de linhas de pesquisa e extensão, oriundas de necessidades da graduação, de exigências do mundo do trabalho e afinadas com as políticas públicas relativas à área de conhecimento do curso;
-
-Zelar pelo cumprimento das Diretrizes Curriculares Nacionais para os cursos de graduação;
-
-Sugerir e fomentar ações voltadas para a formação e o desenvolvimento dos docentes vinculados ao curso.
-
-O NDE do curso de Sistemas de Informação encontra-se constituído e atuante, reunindo-se, ordinariamente, uma vez por semestre.
+O NDE do curso encontra-se constituído e atuante, reunindo-se, ordinariamente, uma vez por semestre.
 
 As decisões das reuniões são registradas em atas que, após verificadas, são assinadas pelos membros do NDE. Além do registro próprio, as ações que envolvem o Colegiado do Curso embasam o plano de atividades do mesmo.
 
@@ -240,3 +237,43 @@ Nos últimos anos, os editais PIBIC reservam 20% das cotas de bolsa da UFC para 
 
 #### Programa de Bolsa Iniciação Acadêmica
 O Programa Bolsa de Iniciação Acadêmica tem por objetivo propiciar aos estudantes de cursos de graduação presenciais da UFC – em situação de vulnerabilidade socioeconômica comprovada, especialmente os de semestres iniciais – condições financeiras para sua permanência e desempenho acadêmico satisfatório, mediante atuação, em caráter de iniciação acadêmica, nas diversas unidades da instituição. Em 2017, um total de 80 alunos do campus tiveram acesso a essa modalidade de bolsa.
+
+#### Bolsa de Incentivo ao Desporto
+O Programa Bolsa de Incentivo ao Desporto tem por objetivo incentivar estudantes de graduação a desenvolver suas capacidades em atividades relacionadas ao desporto, contribuindo na melhoria da sua trajetória e formação acadêmica.
+
+Em 2018 foram ofertadas 100 vagas para estudantes que estivessem regularmente matriculados, além de atenderem aos requisitos do edital. A oferta de bolsas ocorre nas modalidades de Gestão, Assessoria e Rendimento Desportivo.
+
+#### Programa de Acolhimento e Incentivo à Permanência (PAIP)
+A bolsa tem dois objetivos principais: de propiciar oportunidade ao estudante de graduação para o aprimoramento de sua formação, junto à gestão universitária, permitindo-lhe uma ampliação de seus conhecimentos acerca da estrutura e da dinâmica acadêmica; criar espaço de participação discente nas ações desenvolvidas pelo Gabinete da PROGRAD e pelas coordenadorias que compõem da pró-reitoria.
+
+A bolsa tem o valor mensal de R$ 400,00, com vigência de no máximo dez meses, relativos ao período de março a dezembro de cada ano, com carga horária de 12 horas semanais, nos turnos da manhã e/ou da tarde, de acordo com as indicações dos projetos.
+
+São atividades dos bolsistas PAIP: organizar os dias e turnos de atividades (manhã, tarde ou noite), considerando a disponibilidade de horário do bolsista e, também, as necessidades da coordenadoria ou projeto ao qual está vinculado; participar do planejamento e da execução das ações da coordenadoria ou projeto ao qual está vinculado, bem como redigir relatórios parciais e final das atividades desenvolvidas; e apresentar trabalho nos Encontros Universitários da UFC.
+
+### Assistência em Acessibilidade
+
+Desde agosto de 2010, a UFC conta com um setor exclusivo para elaborar ações rumo à inclusão de pessoas com deficiência, a Secretaria de Acessibilidade UFC Inclui, que, como o nome sugere, busca integrar pessoas cegas, surdas, cadeirantes e com outras limitações de mobilidade no dia a dia da instituição.
+
+Com três eixos de atuação, tecnológico, atitudinal e pedagógico – a secretaria trabalha na formulação de uma política central de acessibilidade na UFC, agindo para que esta seja respeitada e implementada nos diversos espaços da universidade.
+
+Não se trata de um órgão executor – embora ofereça serviços como digitalização de textos, ledores, revisão de projetos arquitetônicos, entre outros – e, sim, de um núcleo de fomentação e acompanhamento de ações intersetoriais.
+
+Não é objetivo da secretaria absorver todas as ações referentes à inclusão, uma vez que a tarefa de acolher pessoas com deficiência diz respeito a toda a sociedade, cabendo ao órgão disseminar a cultura inclusiva e despertar na comunidade universitária o compromisso com o respeito aos direitos desse público. É por isso que a secretaria trabalha na descentralização das iniciativas de acessibilidade, oferecendo suporte e orientação a professores, coordenadores, chefes de departamento, servidores técnico-administrativos e estudantes interessados em fazer sua parte desse desafio.
+
+São atribuições da secretaria: elaborar e gerenciar ações de acessibilidade; oferecer suporte às unidades acadêmicas para a efetivação da acessibilidade na UFC; estimular a inserção de conteúdos sobre acessibilidade nos projetos pedagógicos de cursos de graduação, contribuindo para a formação de profissionais sensíveis ao tema; identificar e acompanhar os alunos com deficiência na UFC; identificar metodologias de ensino que representam barreiras para os alunos com deficiência e propor estratégias alternativas; estimular o desenvolvimento de uma cultura inclusiva na universidade; oferece serviços de apoio a esse público, como digitalização e leitura de textos acadêmicos, cursos de Língua Brasileira de Sinais (Libras), revisão de processos arquitetônicos com base em critérios de acessibilidade, entre outras ações; promover a formação de recursos humanos em gestão de políticas relacionadas às pessoas com deficiência, qualificando-os para um atendimento adequado; promover eventos para informar e sensibilizar a comunidade universitária; estimular o desenvolvimento de pesquisas de Avaliação Pós-Ocupação nos prédios da UFC; estimular a acessibilidade em ambientes virtuais e nos produtos e eventos de comunicação e marketing; e oferecer orientação e apoio pedagógico a coordenadores e professores, estabelecendo um canal de comunicação entre estes e os estudantes com deficiência.
+
+O trabalho da secretaria é desenvolvido em três eixos. O eixo atitudinal relaciona-se à ideia de que a inclusão é uma questão de atitude e de sensibilidade. É preciso ajudar a comunidade acadêmica a enfrentar o preconceito e incentivar mudanças de atitude, visando à remoção de barreiras que impedem a acessibilidade. O eixo tecnológico tem a ver com o incentivo de pesquisas e ações em tecnologias assistivas, para o desenvolvimento de equipamentos, serviços e estratégias que permitam o acesso ao conhecimento com autonomia. E o eixo pedagógico concentra-se na ideia de que não basta fazer com que o estudante com deficiência ingresse na Universidade – é preciso oferecer condições para que ele tenha a mesma formação que os colegas. Por isso, a secretaria promove ações que facilitem o ensino-aprendizagem, com alternativas de avaliação.
+
+Conforme a Lei nº 12.711, sancionada em agosto de 2012 (BRASIL, 2012a), a UFC reserva 50% de suas vagas para alunos que tenham cursado integralmente o Ensino Médio público, em cursos regulares ou da educação de jovens e adultos. Os demais 50% das vagas permanecem para ampla concorrência. Destas vagas reservadas para a escola pública, metade é destinada para estudantes com renda mensal familiar até um salário mínimo e meio. O preenchimento das vagas leva em conta ainda critérios de cor ou raça, segundo dados estatísticos do Instituto Brasileiro de Geografia e Estatística (IBGE).
+
+A partir do SiSU 2018, conforme a Lei nº 13.409, sancionada em dezembro de 2016 (BRASIL, 2016), o preenchimento das vagas começou a levar em consideração também uma reserva, em cada modalidade de cota, para pessoas com deficiência, no mínimo igual à proporção na população do estado do Ceará, de acordo com o IBGE.
+
+Somente em 2018, na chamada regular do SiSU, a UFC adotou cotas para pessoas com deficiência, recebendo 131 candidatos com deficiência que ingressaram na na instituição. A maioria possui deficiência física (80), mas há também pessoas com deficiência visual (28), mental (13), auditiva (8) e múltipla (2). _Os números referem-se aos candidatos aprovados na chamada regular do SiSU 1º/2018, que solicitaram matrícula entre 5 e 7 de fevereiro de 2018 e tiveram toda a documentação deferida_.
+
+Antes da implantação das cotas, a UFC tinha pessoas com deficiência em seu corpo discente. De acordo com a secretaria, em 2017 um total de 88 estudantes (computados os alunos do Curso de Letras-Libras) com deficiência estavam matriculados na universidade, a maioria deles (49) com deficiência auditiva. Os demais tinham deficiência visual (18), física (13), altas habilidades (7) e transtorno psiquiátrico/déficit de atenção (1).
+
+A importância da adoção de cotas específicas para pessoas com deficiência no processo de democratização do ensino superior é um avanço importante para a universidade, que assume seu papel de atendimento à comunidade e amplia a inclusão de modo mais efetivo, com todas as cotas existentes hoje.
+
+Para fazer frente ao esperado aumento do número de pessoas com deficiência na universidade, a secretaria está se preparando para ampliar o atendimento a esse público, mediante a aquisição de novos equipamentos, contratação de intérpretes e ampliação da interlocução com as unidades acadêmicas, a fim de garantir formação de qualidade a todos.
+
+O campus prevê em sua infraestrutura a facilitação da acessibilidade a pessoas com dificuldades de locomoção ou visão, contando com plataformas elevatórias, portas largas de acesso às salas e laboratórios, banheiros com cabine específica para deficientes e plaquetas com inscrições em braile, além de rampas de acesso ou mesmo ausência de degraus desde o estacionamento até todos os ambientes térreos. Além disso, trabalha em estreita ligação com a secretaria, no atendimento aos discentes com deficiência.
