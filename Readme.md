@@ -49,3 +49,27 @@ Concluída esta etapa, a Coordenadoria de Programas Acadêmicos do campus (setor
 
 Os principais insumos para a atuação do Colegiado são: os resultados das Avaliações Institucionais realizadas semestralmente; demandas de alunos ou docentes encaminhadas diretamente à Coordenação do curso ou a algum dos membros do colegiado; demandas oriundas da Direção, Conselho do Campus ou das instâncias superiores da UFC. A análise desses insumos leva à elaboração do relatório de gestão de melhorias (Plano de Melhorias), que pauta a atuação da Coordenação.
 
+### Núcleo Docente Estruturante - NDE
+Na UFC, o Núcleo Docente Estruturante (NDE) é regido pelas resoluções CEPE/UFC nº 10/2012 (UFC, 2012b) e MEC/CONAES nº 1/2010 (BRASIL, 2010b). O NDE constitui segmento da estrutura de gestão acadêmica em cada curso de graduação, com atribuições consultivas, propositivas e de assessoria sobre matéria de natureza acadêmica e pedagógica, corresponsável pela elaboração, implementação, acompanhamento, atualização e consolidação do Projeto Pedagógico do Curso.
+
+Com caráter de instância autônoma, colegiada e interdisciplinar, vinculada a Coordenação de curso, o NDE é composto pelo Coordenador do curso e, no mínimo, 5 outros docentes que possuam, preferencialmente, o título de doutor, que atuam no desenvolvimento do curso e exercem liderança acadêmica, percebida na produção de conhecimentos na área, no desenvolvimento do ensino e em outras dimensões entendidas como importantes pela instituição. A escolha dos representantes docentes é feita pelo Colegiado de curso para um mandato de três anos, com possibilidade de uma recondução. A renovação dos membros dá-se pela finalização do mandato ou por necessidade individual, de modo que parte deles permaneça, como modo de preservar o espírito do curso.
+
+De acordo com (UFC, 2012b), Artº 3, são atribuições do NDE:
+
+Avaliar, periodicamente, pelo menos a cada três anos no período do ciclo avaliativo do Sistema Nacional de Avaliação da Educação Superior (SINAES) e, sempre que necessário, elaborar propostas de atualização para o PPC e encaminhá-las para apreciação e aprovação do Colegiado do curso;
+
+Fazer o acompanhamento curricular do curso, tendo em vista o cumprimento da missão e dos objetivos definidos em seu Projeto Pedagógico;
+
+Zelar pela integração curricular interdisciplinar entre as diferentes atividades de ensino constantes no currículo;
+
+Contribuir para a consolidação do perfil profissional do egresso do curso;
+
+Indicar formas de incentivo ao desenvolvimento de linhas de pesquisa e extensão, oriundas de necessidades da graduação, de exigências do mundo do trabalho e afinadas com as políticas públicas relativas à área de conhecimento do curso;
+
+Zelar pelo cumprimento das Diretrizes Curriculares Nacionais para os cursos de graduação;
+
+Sugerir e fomentar ações voltadas para a formação e o desenvolvimento dos docentes vinculados ao curso.
+
+O NDE do curso de Sistemas de Informação encontra-se constituído e atuante, reunindo-se, ordinariamente, uma vez por semestre.
+
+As decisões das reuniões são registradas em atas que, após verificadas, são assinadas pelos membros do NDE. Além do registro próprio, as ações que envolvem o Colegiado do Curso embasam o plano de atividades do mesmo.
