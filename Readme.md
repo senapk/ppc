@@ -3,6 +3,25 @@
     - [Coordenação do Curso](#coordenação-do-curso)
     - [Colegiado do Curso](#colegiado-do-curso)
     - [Núcleo Docente Estruturante - NDE](#núcleo-docente-estruturante---nde)
+    - [Apoio ao Discente](#apoio-ao-discente)
+        - [Núcleo de Atendimento Social](#núcleo-de-atendimento-social)
+        - [O Serviço de Psicologia](#o-serviço-de-psicologia)
+        - [Serviço de Nutrição](#serviço-de-nutrição)
+        - [Serviço Social](#serviço-social)
+    - [Apoio Pedagógico e Acadêmico](#apoio-pedagógico-e-acadêmico)
+        - [Programa de Orientação Acadêmica (POA)](#programa-de-orientação-acadêmica-poa)
+        - [Mobilidade Acadêmica](#mobilidade-acadêmica)
+    - [Política de Bolsas e Auxílios](#política-de-bolsas-e-auxílios)
+        - [Programa Ajuda de Custo](#programa-ajuda-de-custo)
+        - [Programa Auxílio Moradia](#programa-auxílio-moradia)
+        - [Programa de Promoção da Cultura Artística](#programa-de-promoção-da-cultura-artística)
+        - [Programa de Educação Tutorial (PET)](#programa-de-educação-tutorial-pet)
+        - [Programa Institucional de Bolsas de Administração (PIBAD)](#programa-institucional-de-bolsas-de-administração-pibad)
+        - [Programa de Extensão Universitária](#programa-de-extensão-universitária)
+        - [Programa de Desenvolvimento Institucional em Tecnologia da Informação](#programa-de-desenvolvimento-institucional-em-tecnologia-da-informação)
+        - [Programa de Iniciação à Docência (PID)](#programa-de-iniciação-à-docência-pid)
+        - [Programa Institucional de Bolsas de Iniciação Científica (PIBIC)](#programa-institucional-de-bolsas-de-iniciação-científica-pibic)
+        - [Programa de Bolsa Iniciação Acadêmica](#programa-de-bolsa-iniciação-acadêmica)
 [](toc)
 
 
@@ -74,3 +93,150 @@ Sugerir e fomentar ações voltadas para a formação e o desenvolvimento dos do
 O NDE do curso de Sistemas de Informação encontra-se constituído e atuante, reunindo-se, ordinariamente, uma vez por semestre.
 
 As decisões das reuniões são registradas em atas que, após verificadas, são assinadas pelos membros do NDE. Além do registro próprio, as ações que envolvem o Colegiado do Curso embasam o plano de atividades do mesmo.
+
+### Apoio ao Discente
+Fortalecer o vínculo institucional do estudante pelas condições de acesso, permanência, melhoria contínua e qualidade de vida é a missão da Pró-reitoria de Assuntos Estudantis (PRAE) da UFC. Suas atribuições são ampliar as condições de permanência dos estudantes em situação de vulnerabilidade socioeconômica na UFC, viabilizar a igualdade de oportunidades entre os estudantes, contribuir para a melhoria do desempenho acadêmico individual e agir, preventivamente, nas situações de retenção e evasão decorrentes da insuficiência de condições financeiras.
+
+No Campus da UFC em Quixadá, o Núcleo de Atendimento Social (NAS) implementa e acompanha os projetos e ações promovidos pela PRAE.
+
+#### Núcleo de Atendimento Social
+O NAS foi previsto no Planejamento Estratégico realizado no Campus da UFC em Quixadá em 2013. Dentre as atividades e ações de assistência estudantil, foi prevista a criação de um setor de apoio à saúde e bem-estar dos discentes e que promovesse serviços de assistência psicopedagógico dentro do campus.
+
+Grande parte dos alunos do campus é de fora da cidade de Quixadá e passa por diversos desafios no decorrer do seu percurso acadêmico. Para os auxiliar, o NAS promove a implementação de políticas, programas e ações de acompanhamento e orientação, além de trabalharem em conjunto com as coordenações dos cursos, no desenvolvimento de estratégias de acessibilidade metodológica e instrumental. O núcleo conta com uma equipe interdisciplinar, formada por um psicólogo, um assistente social e um nutricionista, pautada no diálogo e preparada para elaborar, implementar e coordenar projetos que promovam a articulação entre as políticas de ensino superior à assistência estudantil, integrando processos psicossociais e educacionais, identificando e superando desafios; além de viabilizar ações, serviços e programas que previnam a evasão estudantil.
+
+O núcleo também gerencia os processos de seleção e acompanhamento de Bolsas de Iniciação Acadêmica, Auxílio Moradia, Renovação do Auxílio Moradia, Auxílio Emergencial, Auxílio Creche, Isenção do RU (apresentadas na Seção 4.4.3). Dentre as atividades desenvolvidas nesses processos, estão: a formulação de edital, a definição de cronogramas, a formação de comissão, o recebimento de documentos, a realização de entrevistas, a análise documental, a divulgação dos resultados (apoiada pelo Núcleo de Comunicação do campus), o controle das listas de frequência dos bolsistas e o acompanhamento de seu desempenho acadêmico. Em 2017, cerca de 500 alunos do campus participaram de uma ou mais dessas atividades.
+
+Uma das atividades diretamente relacionadas com o acolhimento e a permanência de discentes é a palestra de recepção aos ingressantes, com apresentação dos serviços e pessoal do núcleo aos 300 alunos que chegam ao campus no início do ano letivo.
+
+Com esse mesmo objetivo, a coordenação do Projeto de Orientação Acadêmica (POA) é outra atividade importantíssima promovida pelo NAS. O projeto propõe o acompanhamento dos alunos, principalmente, dos anos iniciais, com o objetivo de aprimorar sua visão sobre o ambiente universitário e a vida acadêmica, dedicando-se ao aproveitamento nas disciplinas e em atividades que complementam sua formação através da tutoria de um servidor experiente (na função de orientador acadêmico). Em 2017, cerca de 100 alunos foram acompanhados por um Orientador Acadêmico no campus. Foi iniciado também em 2017.2, o processo de Orientação Acadêmica em Grupo, baseado na orientação acadêmica individual, mas tentando atender um maior número de alunos. No primeiro momento, foi voltado aos alunos do programa Auxílio Moradia. Em 2017, foram realizados três encontros, nos meses de setembro, outubro e novembro, com temas relacionados ao âmbito acadêmico e à assistência estudantil: direitos e deveres do beneficiário; critérios para permanência e renovação do auxílio moradia; planejamento da vida profissional.
+
+No início do ano letivo é aplicado o Questionário sobre o Perfil do Aluno, que tem como objetivo conhecer mais profundamente os discentes recém ingressos, abordando questões como características socioeconômicas e demográficas, perfil do estudante, motivos da escolha do curso, expectativas e receios (SOUZA, 2016, 2017).
+
+A Jornada de Iniciação Acadêmica (JOIA) é um exemplo de evento realizado pelo NAS. Anualmente, e especialmente para os alunos participantes do processo de seleção da Bolsa de Iniciação Acadêmica, o núcleo apresenta as características da bolsa e promove ações de interação entre os discentes, com o objetivo de identificar possíveis relações entre seus perfis e os projetos desenvolvidos no campus aos quais eles podem vincular-se. Em 2017, cerca de 200 alunos participaram do JOIA.
+
+A seguir, são apresentados os serviços que compõem o NAS e as ações especificamente por ele promovidas. Além destes, existe a previsão de ampliação das atividades do NAS, com o reforço à saúde dos discentes a partir da oferta de atendimento odontológico no campus.
+
+#### O Serviço de Psicologia
+O Serviço de Psicologia do Campus da UFC em Quixadá visa à promoção de um ambiente educativo harmônico e produtivo e tem por finalidade apoiar, orientar e acompanhar o aluno nos diversos processos de adaptação frente à realidade do contexto universitário. Com esse objetivo, o serviço procura analisar e corrigir os equívocos institucionais que comprometem a qualidade do processo de ensino-aprendizagem e as relações intersubjetivas estabelecidas entre os diversos atores que compõem a vida acadêmica, contribuindo para o bem-estar e para a qualidade de vida dos alunos do campus.
+
+O serviço oferece aconselhamento e orientação psicológica aos alunos cuja dificuldade esteja centrada nos fatores psíquicos ligados às questões acadêmicas, focando nos aspectos cognitivos, sociais e afetivos que geram resistência e dificultam o processo de aprendizagem, o desempenho acadêmico e o bem-estar estudantil.
+
+Em 2022 iniciou-se uma atividade de acolhimento aos veteranos, que consiste na escuta da história de vida dos ingressantes por meio do uso de personagens. Além disso, em 2021 foram realizadas 204 sessões de apoio psicológico aos discentes, sendo 46 alunos atendidos. O apoio psicológico é um atendimento que possibilita um espaço de escuta e acolhimento para os estudantes da UFC, Quixadá, com o objetivo de qualificar o seu processo de aprendizagem, ampliando a consciência de si, da organização do tempo e das possibilidades de estratégias de estudo. Além disso, o apoio psicológico também é voltado para estudantes que vivenciam situações de sofrimento psíquico e é realizado por demanda espontânea do estudante. Esse atendimento contribui para apoiar o aluno, auxiliando a ampliar a compreensão do estudante sobre as possibilidades e os limites que possui atualmente diante das situações vivenciadas, ajudando-o na construção de sentidos para lidar com estas. Este é um atendimento breve, adaptado para o contexto educativo da UFC em Quixadá, sendo, em média, realizadas quatro sessões com cada estudante.
+
+#### Serviço de Nutrição
+O Serviço de Nutrição tem como objetivo auxiliar os alunos a adotar hábitos mais saudáveis a partir de duas ações principais: a orientação nutricional individualizada e a coordenação do Refeitório Universitário (RU) do campus. O RU oferece refeições balanceadas e de qualidade, a um valor monetário simbólico, subsidiado pela universidade, aos alunos (R$1,10), e constitui-se como espaço de convivência e integração de estudantes, docentes e servidores técnico-administrativos. Em 2017, foram servidas no campus, aproximadamente, 116.532 refeições por mês, sendo 75.006 almoços e 41.526 jantares. No segundo semestre, teve início o processo de informatização do sistema de tickets, permitindo a consulta, em tempo real, do número de refeições em toda a instituição.O dia 23/08/2017 ficou marcado por ter sido a primeira vez que um tíquete eletrônico foi utilizado no campus, durante o jantar.
+
+O Serviço de Nutrição avalia a qualidade do alimento servido no RU, essencialmente, de duas formas. Primeiro, a partir da promoção diária de uma pesquisa de satisfação sobre as refeições, com o objetivo de recolher a opinião da comunidade acadêmica. Após a refeição, cada comensal coloca em uma urna, conforme a sua percepção, uma avaliação que varia em três níveis, separados por tipo de proteína consumida (carne vermelha, carne branca, vegetariano). O segundo método é feito por meio da pesagem dos alimentos recebidos e do lixo descartado, conhecida como relação resto-ingestão. O estudo do resultado desses métodos permite ao Serviço de Nutrição acompanhar a qualidade do alimento servido e dá informações preciosas sobre a necessidade de alterações no cardápio do RU.
+
+Para além das atividades de gestão do RU, o serviço oferece atendimento nutricional à comunidade acadêmica. No ano de 2017, foram realizados 45 atendimentos, dentre primeiras consultas e retornos. Após o atendimento pelo nutricionista, uma nova consulta é marcada para a entrega do plano nutricional individualizado proposto. Além dessas, outras consultas informais, não contabilizadas, foram realizadas para fins de acompanhamento, esclarecimento de dúvidas, reformulação do plano proposto, etc. Complementando o atendimento individualizado, desde 2018, o Serviço de Nutrição promove o grupo “Mitos e verdades sobre alimentação”. Em cada encontro é debatido um tema específico da área, com uma breve exposição seguida de debate.
+
+#### Serviço Social
+Na área de Serviço Social, o assistente social realiza suas intervenções no atendimento à população e/ou na formulação e execução de políticas públicas que possibilitam o acesso aos direitos sociais, com base em uma formação crítica, que o capacita para realizar a análise da realidade e intervir nas várias questões apresentadas.
+
+O Serviço Social do Campus da UFC em Quixadá volta-se para o atendimento das demandas dos discentes, com base na Política Nacional de Assistência Estudantil (PNAES, Decreto nº 7.234/2010) (BRASIL, 2010b). Além do trabalho direto com os auxílios oferecidos pela PRAE, o Serviço Social realiza orientações aos alunos e encaminhamentos para a rede socioassistencial do município de Quixadá e adjacências. Realiza ainda pesquisas e ações educativas relativas às mais variadas expressões da questão social, tais como violência, vulnerabilidade socioeconômica, dentre outros. Os atendimentos para orientação são realizados através do agendamento, realizado na sala do Serviço Social ou por e-mail.
+
+Além das orientações e acompanhamento, o serviço promove, em parceria com o Núcleo de Comunicação do campus, o projeto “Você Sabia?”, que tem o objetivo de repassar, através do site e das redes sociais do campus, informações referentes à política de assistência estudantil e às outras políticas públicas.
+
+### Apoio Pedagógico e Acadêmico
+Todos os docentes do curso são responsáveis pelo acompanhamento e apoio pedagógico, de maneira sistemática, com horários de atendimento aos discentes fora de sala de aula. Além deles, a coordenação tem papel importante nessa área, com o acompanhamento individual de matrícula, orientação sobre carga-horária adequada ao discente, planejamento do fluxo curricular para alunos com reprovações e o planejamento e adequação da oferta de componentes curriculares, como a inclusão de turmas extras na medida da necessidade, visando minimizar o represamento curricular.
+
+Complementando o trabalho desenvolvido por docentes e coordenação, é importante ressaltar duas outras ações desenvolvidas no campus, alinhadas às políticas institucionais descritas no PDI da UFC, o Programa de Orientação Acadêmica (POA) e a mobilidade acadêmica.
+
+#### Programa de Orientação Acadêmica (POA)
+
+Ao longo do percurso formativo, inúmeros aspectos podem interferir no processo de aprendizagem, dentre eles a adaptação do aluno ao contexto universitário. O ingresso na vida acadêmica pode constituir-se como momento de crise na vida do sujeito, visto que a transição do Ensino Médio para o Ensino Superior implica no aumento de responsabilidades e na necessidade de desenvolver autonomia. Trata-se de uma fase geradora de amadurecimento e, ao mesmo tempo, desencadeadora de sentimentos de vulnerabilidade e desamparo. Soma-se a isso o fato de a maior parte dos alunos do campus vir de outras cidades e terem, ainda muito novos e inexperientes, que sair da casa dos pais, para morar em Quixadá, o que os leva a assumir responsabilidades da “vida adulta” que até então não conheciam.
+
+Diante desse cenário, foi criado o Programa de Orientação Acadêmica (POA), desenvolvida como uma política inovadora do Campus da UFC em Quixadá, que busca promover a integração dos alunos à vida universitária, orientando-os quanto às suas atividades acadêmicas, prioritariamente nos dois anos iniciais do curso, contribuindo, dessa forma, para o processo de socialização e ambientação dos alunos ao campus.
+
+São duas modalidades de acompanhamento. A individual, onde cada aluno participante do programa tem um orientador específico (docente ou servidor técnico-administrativo), com quem mantém encontros regulares. O planejamento é realizado de forma singular, pensado a partir da realidade de cada aluno. E a orientação em grupo, nas quais, periodicamente, são realizados encontros para trabalhar temáticas relacionadas à trajetória acadêmica (exemplos de temáticas: “Mercado de Trabalho x Área Acadêmica”, “Encontros Universitários: Por que participar?”, “Desmistificando a Universidade”, dentre outras).
+
+No POA, articulam-se os membros da comunidade acadêmica em diferentes níveis. São atribuições dos orientadores acadêmicos: pensar, junto ao aluno, considerando a programação acadêmica do seu curso, um fluxo curricular compatível com seus interesses e possibilidades de desempenho acadêmico; orientar a tomada de decisões relativas à matrícula; apresentar aos alunos o projeto pedagógico do curso de graduação e a estrutura universitária; encontrar-se pelo menos 2 vezes por semestre com seus alunos; e entregar à secretaria acadêmica, ao final de cada semestre letivo, relatório das atividades realizadas por cada aluno.
+
+Os alunos que participam do programa têm o compromisso de: manter contato com o orientador para o agendamento dos encontros; participar ativamente da construção do plano de estudos e de outras atividades propostas pelo orientador, atuando como protagonista no processo; agendar novos encontros com o orientador sempre que julgar necessário.
+
+Já a comunidade acadêmica compromete-se a: acolher os estudantes no contexto universitário, viabilizando a sua integração; colaborar para a promoção de estratégias dialógicas de ensino-aprendizagem; favorecer processos comunicacionais envolvendo servidores e discentes; desenvolver a autonomia e o protagonismo dos estudantes na busca de soluções para os desafios do cotidiano universitário; e sanar os fatores de retenção, desistência e abandono, promovendo ações que identifiquem e minimizem os problemas no âmbito de cada curso.
+
+#### Mobilidade Acadêmica
+
+A mobilidade acadêmica é o processo que possibilita ao discente matriculado em uma IES estudar em outra e, após a conclusão dos estudos, obter um comprovante de estudos e, possivelmente, o aproveitamento de disciplinas em sua instituição de origem. A mobilidade acadêmica envolve a existência de condições apropriadas, que contribuem com a formação e o aperfeiçoamento dos quadros docente e discente, objetivando a aquisição de novas experiências e a interação com outras culturas.Os discentes do campus têm acesso a duas modalidades de mobilidade acadêmica, oferecidas pela PROGRAD e pela Pró-reitoria de Relações Internacionais (PROINTER).
+
+O Programa Andifes de Mobilidade Acadêmica alcança somente alunos regularmente matriculados em cursos de graduação de universidades federais, que tenham concluído pelo menos 20\% (vinte por cento) da carga horária de integralização do curso de origem e com no máximo duas reprovações acumuladas nos dois períodos letivos que antecedem o pedido de mobilidade. O estudante da UFC pode solicitar a mobilidade acadêmica a qualquer tempo, mas deve buscar informações junto à IFES de seu interesse sobre seus prazos e procedimentos.
+
+É possível também a mobilidade acadêmica entre a UFC e instituições no exterior, em programas promovidos pela PROINTER, órgão que coordena as relações da universidade com instituições estrangeiras de educação, ciência e cultura, bem como oferece o suporte necessário à execução de convênios e acordos internacionais através das atividades desenvolvidas pelas unidades que lhe são subordinadas (no campus, a Coordenadoria de Assuntos Internacionais).
+
+Os pedidos de inscrição dos alunos que desejem participar de programas de mobilidade acadêmica são realizados mediante encaminhamento do Coordenador do curso à PROINTER, juntamente com o plano de estudos elaborado pelo aluno, contendo as disciplinas que cursará na IES desejada. Cabe ao Coordenador do curso analisar as solicitações de afastamento temporário, bem como os programas das disciplinas a serem cursadas, de modo a permitir, inequivocamente, a posterior e obrigatória concessão de equivalência e consequente dispensa. O Coordenador emitirá parecer conclusivo sobre as solicitações e informará a PROINTER para
+que esta providencie junto a IES pretendida a efetivação do Intercâmbio.
+
+A UFC é conveniada a diferentes programas de mobilidade internacional oferecidos por diversos países, como é o caso dos Programas BRAFITEC e Duplo Diploma de Graduação em engenharia (com a França), e UNIBRAL e PROBRAL (com a Alemanha), além do programa Erasmus Mundus que já beneficiou vários estudantes da UFC através de projetos coordenados pela Universidade Técnica de Munique (Alemanha), pela Universidade de Santiago de Compostela (Espanha) e pela Universidade do Porto (Portugal).
+
+A UFC também participou do PROGRAMA ALFA, programa de cooperação entre IES da União Europeia e da América Latina, e PROGRAMA ALBAN, programa de cooperação entre União Europeia e países latino-americanos, destinado a estudantes e profissionais latino-americanos e futuros acadêmicos.
+
+### Política de Bolsas e Auxílios
+O curso disponibiliza diversos programas de auxílios financeiros para permanência e integração acadêmica do discente, como o Programa de Bolsas de Auxílio Moradia e de Iniciação Acadêmica, que constituem auxílios para alunos socialmente vulneráveis, além da oferta de bolsas de mérito acadêmico, como as dos programas de Iniciação à Docência e de Iniciação Científica. A seguir, são referenciados os programas institucionais de bolsas e auxílios que constituem a política da UFC nesse âmbito, em conjunto a algumas considerações sobre cada tipo listado.
+
+#### Programa Ajuda de Custo
+O Programa Ajuda de Custo concede ajuda de custo aos estudantes dos cursos de graduação que desejam apresentar trabalhos em eventos de naturezas diversas, ou de eventos promovidos por entidades estudantis e grupos organizados de estudantes. Apoia o Diretório Central dos Estudantes (DCE), os Centros Acadêmicos (CA’s) e as Associações Atléticas na participação nos seus eventos, com representação de delegados e equipes de modalidades esportivas; também apoia na promoção de eventos acadêmicos, políticos, culturais e esportivos locais.
+
+#### Programa Auxílio Moradia
+O Programa Auxílio Moradia tem por objetivo viabilizar a permanência de estudantes matriculados nos cursos de graduação dos campi da Universidade Federal do Ceará (UFC) localizados fora dos seus municípios de residência e que estejam em comprovada situação de vulnerabilidade econômica, assegurando-lhes auxílio institucional para complementação de despesas com moradia e alimentação durante todo o período do curso e enquanto persistir a mesma situação. A vinculação dos estudantes ao Programa Auxílio Moradia não os impede de receber, por mérito, qualquer uma das bolsas dos diversos programas da UFC, de agências de fomento ou de empresas. 
+
+#### Programa de Promoção da Cultura Artística
+Mais conhecido como Bolsa Arte, foi instituído pela Resolução nº 08 do CEPE - Conselho de Ensino, Pesquisa e Extensão, em sua reunião de 26 de abril de 2013. O programa tem como objetivo principal oferecer aos estudantes, servidores docentes e técnico-administrativos da UFC condições para produção, realização e fruição de bens artístico culturais e tem duração de um ano.
+
+O programa é gerido pela Secretaria de Cultura Artística (Secult-Arte), que tem por objetivo trabalhar pela articulação das iniciativas relacionadas às artes na instituição, incentivando e apoiando ações e projetos. A partir do apoio dispensado em diferentes ações, visa fortalecer a cultura artística, compreendida como dimensão inalienável da vida universitária, buscando criar estratégias para o incremento da produção estética nas diversas linguagens das artes, e estimulando a reflexão crítica sobre esta mesma produção. 
+
+No campus, as ações da secretaria são operacionalizadas pelo Núcleo de Cultura e Artes, que em 2018 promoveu eventos dos mais variados tipos, aproximando a comunidade acadêmica da sociedade, como: mensalmente, em parceria com a Prefeitura Municipal de Quixadá e a FECLESC, projeto “Olha pro céu meu amor”, que conta com atividades como um bate-papo sobre fotografia, vista aérea com drone e observação do espaço através de telescópio; em parceria com o NAS, a mesa redonda “Uma discussão sobre machismo pela perspectiva de gênero”; e a “I Mostra de Cinema Africano – Mamma África”, com atividades no campus e na Casa de Saberes Cego Aderaldo em Quixadá.
+
+Em 2020, o projeto Alma do Campus realizou atividades de interação e integração entre os cursos, oficinas de desenho, lettering, fotografia e células sobre Cinema e Arte.
+
+#### Programa de Educação Tutorial (PET)
+O campus conta com dois grupos de PET, TI e SI, que desenvolvem ações que fortaleçam os vínculos entre a instituição e a população de Quixadá. Os alunos que participam do programa reúnem-se periodicamente para estudar e desenvolver projetos de pesquisa, ensino e extensão, contando com o apoio de um tutor. O PET-SI conta somente com alunos do curso de Sistemas de Informação. Já o PET-TI tem discentes de todos os cursos do campus.
+
+A equipe de bolsistas se renova à medida que os membros mais antigos terminam o curso. O processo de seleção é realizado por uma comissão composta por membros atuais do PET, professores e o tutor, e os bolsistas, quando iniciam suas atividades, devem ter disponibilidade de participar por pelo menos dois anos do programa. 
+
+As equipes do PET são responsável pela promoção de um número importante de atividades no campus, como: 
+- Integração: 
+    - a recepção e orientação dos alunos ingressantes, promovendo um ambiente confortável e oferecendo informação acerca do campus, do curso e da vida acadêmica; 
+- Ensino: 
+    - Nas escolas: o ensino de microcontroladores nas escolas, atividade realizada na turma de informática da EEEP Maria Cavalcante Costa, que tem como objetivo introduzir os conceitos de microcontroladores, explorar os periféricos do microcontrolador estudado (PIC18F4550) e tornar o aluno apto a desenvolver projetos envolvendo LEDs, displays LCD, conversores A/D e D/A e comunicação serial UART; com minicursos de programação ofertados em escolas públicas de Ensino Médio, atualmente no IFCE - Campus Quixadá e na Governador César Cals de Oliveira Filho;
+    - Grupo de preparação para a OBI (Olimpíada Brasileira de Informática), com encontros semanais com a resolução de desafios de lógica e programação; 
+    - o “PyDojo” uma série de reuniões entre desenvolvedores com diferentes níveis de experiência, com a finalidade de aprimorar técnicas e metodologias de programação;
+- Pesquisa: os seminários de pesquisa, visando acompanhar as atividades individuais e coletivas do grupo, são realizados seminários de pesquisas semanais;
+- Extensão: o Ecopet, que tem o objetivo de conscientizar os alunos e servidores sobre a importância da preservação ambiental, promovendo práticas sustentáveis dentro e fora da universidade por meio de desafios, apresentações e competições que envolvam alunos e servidores; 
+- Eventos: 
+    - o InfoGirl, que busca atrair mulheres para a área de TI, apresentando a área em um ambiente amigável e confortável, com palestras, oficinas, workshops e roda de conversa com profissionais e alunas do campus, a alunas do Ensino Médio das escolas da região; 
+    - o “TI por Elas”, “filho” do InfoGirl, que busca promover a  interação e discussão sobre a temática de mulheres na computação no campus;
+    - a edição regional do “Festival latino-americano de instalação de software livre – FLISoL”, evento anual cujo objetivo é promover o uso de Software Livre, mostrando ao público em geral sua filosofia, abrangência, avanços e desenvolvimento;
+    - o “Workshop de Tecnologia da Informação do Sertão Central (WTISC)” realizado anualmente e que promove e difunde, com palestras, minicursos, mesas redondas e hackthons, o conhecimento sobre as diversas áreas de Tecnologia da Informação, de forma a fortalecer e motivar a formação técnico-profissional, por meio da troca de experiências entre profissionais e acadêmicos.
+
+#### Programa Institucional de Bolsas de Administração (PIBAD)
+O PIBAD tem como finalidade promover a inserção dos estudantes nas unidades administrativas e acadêmicas da universidade, por meio da interação dos conhecimentos inerentes a rotinas administrativas necessárias à gestão destas unidades, nos moldes estabelecidos em seus editais. O programa é gerenciado pela Pró-reitoria de Pesquisa e Pós-Graduação (PRPPG).
+
+#### Programa de Extensão Universitária
+O programa destina bolsas ao estudante de graduação vinculado a uma ação de extensão, orientado e acompanhado por um professor ou servidor técnico-administrativo de nível superior vinculado ao quadro da UFC, e tem como objetivos: apoiar, por meio da concessão de bolsas, alunos regularmente matriculados em cursos de graduação da UFC, proporcionando o desenvolvimento de ações de extensão, com vistas à formação cidadã e à transformação social; viabilizar a participação de discentes no processo de interação entre a universidade e outros setores da sociedade através de atividades acadêmicas que contribuam para a sua formação acadêmica, profissional e para o exercício da cidadania; incentivar os processos educativos, culturais, científicos e tecnológicos, como forma de aprendizagem da atividade extensionista, articulados com o ensino e a pesquisa de forma indissociável e que viabilizem a relação transformadora entre a universidade e outros setores da sociedade, contribuindo para a inclusão social; fomentar o interesse em extensão universitária e incentivar novos talentos potenciais entre estudantes de graduação, assim como contribuir para a formação e a qualificação de cidadãos socialmente comprometidos.
+
+A extensão no campus guarda consonância com as orientações da PREx, com o esforço de integração entre ensino/pesquisa/extensão no sentido de levar conhecimento prático à comunidade.
+
+#### Programa de Desenvolvimento Institucional em Tecnologia da Informação
+A Secretaria de Tecnologia da Informação (STI) promove a seleção de estudantes dos cursos de graduação para esse programa. As bolsas têm como objetivo incentivar atividades acadêmicas e administrativas vinculadas ao uso da informática nos diversos órgãos e unidades da UFC. 
+
+#### Programa de Iniciação à Docência (PID)
+
+O Programa de Iniciação à Docência (PID) é desenvolvido em duas modalidades, monitoria remunerada e monitoria voluntária. Na primeira, o monitor recebe uma bolsa-auxílio para desempenhar as funções e, por isso, não deve participar de qualquer outra atividade remunerada, seja pública ou privada. Na segunda, o monitor desempenha as atividades de maneira voluntária, sem o recebimento do auxílio.
+
+A carga horária da monitoria é de 12 horas semanais e deve ser cumprida sem afetar as demais atividades acadêmicas do estudante. A duração é de 10 meses, mas a monitoria pode ser renovada uma vez, por igual período, caso o bolsista seja novamente aprovado em processo seletivo. A função de monitor não constitui cargo ou emprego, nem representa vínculo empregatício de qualquer natureza com a universidade, e é uma importante estratégia para o nivelamento dos discentes com mais dificuldades, que têm a oportunidade de reforçar seus estudos com colegas mais experientes.
+
+Algumas das atividades dos bolsistas de PID são: elaborar, juntamente com o professor-orientador, o plano de trabalho da monitoria; participar das tarefas didáticas, inclusive na programação de aulas e em trabalhos escolares; auxiliar o professor-orientador na realização de trabalhos práticos e experimentais, na preparação de material didático e em atividades de classe e/ou laboratório. 
+
+#### Programa Institucional de Bolsas de Iniciação Científica (PIBIC)
+
+O PIBIC é o principal programa de iniciação científica da universidade, resultado de um convênio entre a UFC, o CNPq e a Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico (Funcap).
+
+Atualmente, o PIBIC conta com 601 cotas de bolsas do CNPq. Essas bolsas são destinadas às várias unidades da graduação. Cada orientador poderá ter, no máximo, dois bolsistas. Pesquisadores que já possuem bolsa BPI da Funcap podem ter, no máximo, uma bolsa. As bolsas BPI são uma espécie de bolsas de produtividade em pesquisa da agência estadual.
+
+Podem concorrer às quotas de bolsa, além de docentes, servidores técnico-administrativos da universidade portadores do título de doutor, em regime de dedicação exclusiva ou 40 horas. São usados critérios de produtividade, produção científica, tecnológica e artística no julgamento dos projetos.
+
+Nos últimos anos, os editais PIBIC reservam 20% das cotas de bolsa da UFC para estudantes dos campi no interior do estado. 
+
+#### Programa de Bolsa Iniciação Acadêmica
+O Programa Bolsa de Iniciação Acadêmica tem por objetivo propiciar aos estudantes de cursos de graduação presenciais da UFC – em situação de vulnerabilidade socioeconômica comprovada, especialmente os de semestres iniciais – condições financeiras para sua permanência e desempenho acadêmico satisfatório, mediante atuação, em caráter de iniciação acadêmica, nas diversas unidades da instituição. Em 2017, um total de 80 alunos do campus tiveram acesso a essa modalidade de bolsa.
