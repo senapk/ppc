@@ -47,11 +47,12 @@
         - [Atribuições](#atribuições)
         - [Sistema de Gestão de Aquisição de Livros](#sistema-de-gestão-de-aquisição-de-livros)
         - [Cursos e Eventos](#cursos-e-eventos)
-        - [ Acervos digitais](#acervos-digitais)
+        - [Acervos digitais](#acervos-digitais)
         - [Portal de acesso a conteúdo científico digital](#portal-de-acesso-a-conteúdo-científico-digital)
         - [Periódicos](#periódicos)
         - [Teses e dissertações](#teses-e-dissertações)
         - [Outros recursos digitais](#outros-recursos-digitais)
+        - [Biblioteca acessível](#biblioteca-acessível)
 [](toc)
 
 
