@@ -11,6 +11,9 @@
     - [Apoio Pedagógico e Acadêmico](#apoio-pedagógico-e-acadêmico)
         - [Programa de Orientação Acadêmica (POA)](#programa-de-orientação-acadêmica-poa)
         - [Mobilidade Acadêmica](#mobilidade-acadêmica)
+            - [Programa Andifes](#programa-andifes)
+            - [Programa PROINTER](#programa-prointer)
+            - [Internacional](#internacional)
     - [Política de Bolsas e Auxílios](#política-de-bolsas-e-auxílios)
         - [Programa Ajuda de Custo](#programa-ajuda-de-custo)
         - [Programa Auxílio Moradia](#programa-auxílio-moradia)
@@ -22,9 +25,33 @@
         - [Programa de Iniciação à Docência (PID)](#programa-de-iniciação-à-docência-pid)
         - [Programa Institucional de Bolsas de Iniciação Científica (PIBIC)](#programa-institucional-de-bolsas-de-iniciação-científica-pibic)
         - [Programa de Bolsa Iniciação Acadêmica](#programa-de-bolsa-iniciação-acadêmica)
-        - [Bolsa de Incentivo ao Desporto](#bolsa-de-incentivo-ao-desporto)
+        - [Programa Bolsa de Incentivo ao Desporto](#programa-bolsa-de-incentivo-ao-desporto)
         - [Programa de Acolhimento e Incentivo à Permanência (PAIP)](#programa-de-acolhimento-e-incentivo-à-permanência-paip)
     - [Assistência em Acessibilidade](#assistência-em-acessibilidade)
+        - [Atribuições](#atribuições)
+        - [Vagas](#vagas)
+        - [Infraestrutura](#infraestrutura)
+    - [Gestão do curso e os processos de avaliação interna e externa](#gestão-do-curso-e-os-processos-de-avaliação-interna-e-externa)
+        - [Avaliação Institucional](#avaliação-institucional)
+        - [O Programa de Autoavaliação Institucional](#o-programa-de-autoavaliação-institucional)
+        - [A ação da Coordenação](#a-ação-da-coordenação)
+        - [Métricas e metas de avaliação](#métricas-e-metas-de-avaliação)
+        - [Avaliação das Condições de Ensino dos Cursos de Graduação (ACE)](#avaliação-das-condições-de-ensino-dos-cursos-de-graduação-ace)
+- [Infraestrutura do Curso](#infraestrutura-do-curso)
+    - [Salas de Aula](#salas-de-aula)
+    - [Laboratórios](#laboratórios)
+    - [Laboratórios Especializados](#laboratórios-especializados)
+    - [Conectividade à Internet](#conectividade-à-internet)
+    - [Estruturas de hospedagem e computação em nuvem](#estruturas-de-hospedagem-e-computação-em-nuvem)
+    - [Biblioteca](#biblioteca)
+        - [Atribuições](#atribuições)
+        - [Sistema de Gestão de Aquisição de Livros](#sistema-de-gestão-de-aquisição-de-livros)
+        - [Cursos e Eventos](#cursos-e-eventos)
+        - [ Acervos digitais](#acervos-digitais)
+        - [Portal de acesso a conteúdo científico digital](#portal-de-acesso-a-conteúdo-científico-digital)
+        - [Periódicos](#periódicos)
+        - [Teses e dissertações](#teses-e-dissertações)
+        - [Outros recursos digitais](#outros-recursos-digitais)
 [](toc)
 
 
@@ -155,15 +182,17 @@ Já a comunidade acadêmica compromete-se a: acolher os estudantes no contexto u
 
 #### Mobilidade Acadêmica
 
-A mobilidade acadêmica é o processo que possibilita ao discente matriculado em uma IES estudar em outra e, após a conclusão dos estudos, obter um comprovante de estudos e, possivelmente, o aproveitamento de disciplinas em sua instituição de origem. A mobilidade acadêmica envolve a existência de condições apropriadas, que contribuem com a formação e o aperfeiçoamento dos quadros docente e discente, objetivando a aquisição de novas experiências e a interação com outras culturas.Os discentes do campus têm acesso a duas modalidades de mobilidade acadêmica, oferecidas pela PROGRAD e pela Pró-reitoria de Relações Internacionais (PROINTER).
+A mobilidade acadêmica é o processo que possibilita ao discente matriculado em uma IES estudar em outra e, após a conclusão dos estudos, obter um comprovante de estudos e, possivelmente, o aproveitamento de disciplinas em sua instituição de origem. A mobilidade acadêmica envolve a existência de condições apropriadas, que contribuem com a formação e o aperfeiçoamento dos quadros docente e discente, objetivando a aquisição de novas experiências e a interação com outras culturas. Os discentes do campus têm acesso a duas modalidades de mobilidade acadêmica, oferecidas pela PROGRAD e pela Pró-reitoria de Relações Internacionais (PROINTER).
 
+##### Programa Andifes
 O Programa Andifes de Mobilidade Acadêmica alcança somente alunos regularmente matriculados em cursos de graduação de universidades federais, que tenham concluído pelo menos 20\% (vinte por cento) da carga horária de integralização do curso de origem e com no máximo duas reprovações acumuladas nos dois períodos letivos que antecedem o pedido de mobilidade. O estudante da UFC pode solicitar a mobilidade acadêmica a qualquer tempo, mas deve buscar informações junto à IFES de seu interesse sobre seus prazos e procedimentos.
 
+##### Programa PROINTER
 É possível também a mobilidade acadêmica entre a UFC e instituições no exterior, em programas promovidos pela PROINTER, órgão que coordena as relações da universidade com instituições estrangeiras de educação, ciência e cultura, bem como oferece o suporte necessário à execução de convênios e acordos internacionais através das atividades desenvolvidas pelas unidades que lhe são subordinadas (no campus, a Coordenadoria de Assuntos Internacionais).
 
-Os pedidos de inscrição dos alunos que desejem participar de programas de mobilidade acadêmica são realizados mediante encaminhamento do Coordenador do curso à PROINTER, juntamente com o plano de estudos elaborado pelo aluno, contendo as disciplinas que cursará na IES desejada. Cabe ao Coordenador do curso analisar as solicitações de afastamento temporário, bem como os programas das disciplinas a serem cursadas, de modo a permitir, inequivocamente, a posterior e obrigatória concessão de equivalência e consequente dispensa. O Coordenador emitirá parecer conclusivo sobre as solicitações e informará a PROINTER para
-que esta providencie junto a IES pretendida a efetivação do Intercâmbio.
+Os pedidos de inscrição dos alunos que desejem participar de programas de mobilidade acadêmica são realizados mediante encaminhamento do Coordenador do curso à PROINTER, juntamente com o plano de estudos elaborado pelo aluno, contendo as disciplinas que cursará na IES desejada. Cabe ao Coordenador do curso analisar as solicitações de afastamento temporário, bem como os programas das disciplinas a serem cursadas, de modo a permitir, inequivocamente, a posterior e obrigatória concessão de equivalência e consequente dispensa. O Coordenador emitirá parecer conclusivo sobre as solicitações e informará a PROINTER para que esta providencie junto a IES pretendida a efetivação do Intercâmbio.
 
+##### Internacional
 A UFC é conveniada a diferentes programas de mobilidade internacional oferecidos por diversos países, como é o caso dos Programas BRAFITEC e Duplo Diploma de Graduação em engenharia (com a França), e UNIBRAL e PROBRAL (com a Alemanha), além do programa Erasmus Mundus que já beneficiou vários estudantes da UFC através de projetos coordenados pela Universidade Técnica de Munique (Alemanha), pela Universidade de Santiago de Compostela (Espanha) e pela Universidade do Porto (Portugal).
 
 A UFC também participou do PROGRAMA ALFA, programa de cooperação entre IES da União Europeia e da América Latina, e PROGRAMA ALBAN, programa de cooperação entre União Europeia e países latino-americanos, destinado a estudantes e profissionais latino-americanos e futuros acadêmicos.
@@ -238,10 +267,12 @@ Nos últimos anos, os editais PIBIC reservam 20% das cotas de bolsa da UFC para 
 #### Programa de Bolsa Iniciação Acadêmica
 O Programa Bolsa de Iniciação Acadêmica tem por objetivo propiciar aos estudantes de cursos de graduação presenciais da UFC – em situação de vulnerabilidade socioeconômica comprovada, especialmente os de semestres iniciais – condições financeiras para sua permanência e desempenho acadêmico satisfatório, mediante atuação, em caráter de iniciação acadêmica, nas diversas unidades da instituição. Em 2017, um total de 80 alunos do campus tiveram acesso a essa modalidade de bolsa.
 
-#### Bolsa de Incentivo ao Desporto
+#### Programa Bolsa de Incentivo ao Desporto
 O Programa Bolsa de Incentivo ao Desporto tem por objetivo incentivar estudantes de graduação a desenvolver suas capacidades em atividades relacionadas ao desporto, contribuindo na melhoria da sua trajetória e formação acadêmica.
 
-Em 2018 foram ofertadas 100 vagas para estudantes que estivessem regularmente matriculados, além de atenderem aos requisitos do edital. A oferta de bolsas ocorre nas modalidades de Gestão, Assessoria e Rendimento Desportivo.
+É atribuição do Desporto Universitário divulgar, organizar, promover e coordenar todo o ambiente desportivo na Universidade, pois o desenvolvimento de atividades esportivas estimula a comunidade discente, melhorando seu desempenho nos cursos aos quais é vinculada.
+
+Em 2022 foram ofertadas 100 vagas para estudantes que estivessem regularmente matriculados, além de atenderem aos requisitos do edital. A oferta de bolsas ocorre nas modalidades de Gestão, Assessoria e Rendimento Desportivo.
 
 #### Programa de Acolhimento e Incentivo à Permanência (PAIP)
 A bolsa tem dois objetivos principais: de propiciar oportunidade ao estudante de graduação para o aprimoramento de sua formação, junto à gestão universitária, permitindo-lhe uma ampliação de seus conhecimentos acerca da estrutura e da dinâmica acadêmica; criar espaço de participação discente nas ações desenvolvidas pelo Gabinete da PROGRAD e pelas coordenadorias que compõem da pró-reitoria.
@@ -260,10 +291,12 @@ Não se trata de um órgão executor – embora ofereça serviços como digitali
 
 Não é objetivo da secretaria absorver todas as ações referentes à inclusão, uma vez que a tarefa de acolher pessoas com deficiência diz respeito a toda a sociedade, cabendo ao órgão disseminar a cultura inclusiva e despertar na comunidade universitária o compromisso com o respeito aos direitos desse público. É por isso que a secretaria trabalha na descentralização das iniciativas de acessibilidade, oferecendo suporte e orientação a professores, coordenadores, chefes de departamento, servidores técnico-administrativos e estudantes interessados em fazer sua parte desse desafio.
 
+#### Atribuições
 São atribuições da secretaria: elaborar e gerenciar ações de acessibilidade; oferecer suporte às unidades acadêmicas para a efetivação da acessibilidade na UFC; estimular a inserção de conteúdos sobre acessibilidade nos projetos pedagógicos de cursos de graduação, contribuindo para a formação de profissionais sensíveis ao tema; identificar e acompanhar os alunos com deficiência na UFC; identificar metodologias de ensino que representam barreiras para os alunos com deficiência e propor estratégias alternativas; estimular o desenvolvimento de uma cultura inclusiva na universidade; oferece serviços de apoio a esse público, como digitalização e leitura de textos acadêmicos, cursos de Língua Brasileira de Sinais (Libras), revisão de processos arquitetônicos com base em critérios de acessibilidade, entre outras ações; promover a formação de recursos humanos em gestão de políticas relacionadas às pessoas com deficiência, qualificando-os para um atendimento adequado; promover eventos para informar e sensibilizar a comunidade universitária; estimular o desenvolvimento de pesquisas de Avaliação Pós-Ocupação nos prédios da UFC; estimular a acessibilidade em ambientes virtuais e nos produtos e eventos de comunicação e marketing; e oferecer orientação e apoio pedagógico a coordenadores e professores, estabelecendo um canal de comunicação entre estes e os estudantes com deficiência.
 
 O trabalho da secretaria é desenvolvido em três eixos. O eixo atitudinal relaciona-se à ideia de que a inclusão é uma questão de atitude e de sensibilidade. É preciso ajudar a comunidade acadêmica a enfrentar o preconceito e incentivar mudanças de atitude, visando à remoção de barreiras que impedem a acessibilidade. O eixo tecnológico tem a ver com o incentivo de pesquisas e ações em tecnologias assistivas, para o desenvolvimento de equipamentos, serviços e estratégias que permitam o acesso ao conhecimento com autonomia. E o eixo pedagógico concentra-se na ideia de que não basta fazer com que o estudante com deficiência ingresse na Universidade – é preciso oferecer condições para que ele tenha a mesma formação que os colegas. Por isso, a secretaria promove ações que facilitem o ensino-aprendizagem, com alternativas de avaliação.
 
+#### Vagas
 Conforme a Lei nº 12.711, sancionada em agosto de 2012 (BRASIL, 2012a), a UFC reserva 50% de suas vagas para alunos que tenham cursado integralmente o Ensino Médio público, em cursos regulares ou da educação de jovens e adultos. Os demais 50% das vagas permanecem para ampla concorrência. Destas vagas reservadas para a escola pública, metade é destinada para estudantes com renda mensal familiar até um salário mínimo e meio. O preenchimento das vagas leva em conta ainda critérios de cor ou raça, segundo dados estatísticos do Instituto Brasileiro de Geografia e Estatística (IBGE).
 
 A partir do SiSU 2018, conforme a Lei nº 13.409, sancionada em dezembro de 2016 (BRASIL, 2016), o preenchimento das vagas começou a levar em consideração também uma reserva, em cada modalidade de cota, para pessoas com deficiência, no mínimo igual à proporção na população do estado do Ceará, de acordo com o IBGE.
@@ -276,4 +309,177 @@ A importância da adoção de cotas específicas para pessoas com deficiência n
 
 Para fazer frente ao esperado aumento do número de pessoas com deficiência na universidade, a secretaria está se preparando para ampliar o atendimento a esse público, mediante a aquisição de novos equipamentos, contratação de intérpretes e ampliação da interlocução com as unidades acadêmicas, a fim de garantir formação de qualidade a todos.
 
+#### Infraestrutura
 O campus prevê em sua infraestrutura a facilitação da acessibilidade a pessoas com dificuldades de locomoção ou visão, contando com plataformas elevatórias, portas largas de acesso às salas e laboratórios, banheiros com cabine específica para deficientes e plaquetas com inscrições em braile, além de rampas de acesso ou mesmo ausência de degraus desde o estacionamento até todos os ambientes térreos. Além disso, trabalha em estreita ligação com a secretaria, no atendimento aos discentes com deficiência.
+
+### Gestão do curso e os processos de avaliação interna e externa
+
+#### Avaliação Institucional
+O planejamento e as ações relacionadas à gestão do curso são regularmente avaliados por meio de processos de avaliação internos e externos, cujos resultados subsidiam ajustes no planejamento. Os processos são todos tratados como ferramentas de Avaliação Institucional, mesmo quando externos ou realizados em outros cursos do campus, com os quais o curso de Sistemas de Informação compartilha parte de infraestrutura, corpo docente e técnico-administrativo.
+
+A Avaliação Institucional tem como objetivo identificar o perfil e o significado da atuação da IES, através das suas atividades, cursos, programas, projetos e setores. Esse processo é norteado pelo SINAES (BRASIL, 2004b), que adota três macro procedimentos visando valorar o mérito e a excelência de uma IES, a saber: a Autoavaliação Institucional, a Avaliação das Condições de Ensino dos Cursos de Graduação (ACE) e o ENADE. 
+
+Na UFC, é a Comissão Própria de Avaliação (CPA) e as Comissões Setoriais de Avaliação (CSA) que conduzem o Programa de Autoavaliação Institucional, realizando sua divulgação nas unidades acadêmicas e estimulando as coordenações de curso a realizar a discussão dos seus resultados entre os alunos e professores. No campus, tem como princípio ser um processo contínuo, viabilizado por práticas tanto de pesquisa quanto de gestão do conhecimento.
+
+#### O Programa de Autoavaliação Institucional
+O Programa de Autoavaliação Institucional da UFC é operacionalizado através do Sistema Integrado de Gestão Acadêmica (SIGAA). A avaliação permite que os alunos expressem, semestralmente, suas opiniões sobre o trabalhos dos docentes, em quatro dimensões com diferentes pesos para o cálculo da nota do docente: planejamento pedagógico, didático e domínio do conteúdo (peso: 40%); relacionamento e postura com os discentes (peso: 20%); formas e usos da avaliação do aprendizado discente (peso: 20%); e pontualidade e assiduidade às aulas (peso: 20%)
+
+Em relação aos resultados da avaliação dos docentes, a coordenação estabeleceu três métricas de análise: questões passíveis de melhoria – aquelas avaliadas abaixo de 4,5 em pelo menos 5 das 11 avaliações possíveis; média docente: é esperado que os professores tenham média acima de 4; discrepância entre autoavaliação docente e a avaliação discente – leva em consideração os professores que apresentaram uma diferença maior que 1 entre as duas avaliações.
+
+Além dos docentes, os alunos avaliam também a infraestrutura (anualmente), Coordenação do curso (anualmente) e realizam uma autoavaliação (semestralmente). Com relação à infraestrutura, são respondidas questões como se os ambientes de aprendizagem possuem tamanho adequado à quantidade de alunos da turma, se possuem adequada climatização, acústica, iluminação, mobiliários e equipamentos adequados ao ensino, além de laboratórios e acervo bibliográfico. Avalia-se também se os banheiros são limpos e adequados ao uso, e se os espaços comuns, as vias de acesso aos ambientes de aprendizagem e a biblioteca estão adaptados ao atendimento de alunos com deficiências.
+
+Sobre a coordenação, os discentes avaliam se ela é acessível, se presta orientação e os auxilia quando necessário, se promove e divulga o PPC e estimula a participação dos alunos em encontros científicos e nos processos avaliativos do curso, se promove momentos de diálogo com os alunos sobre a formação acadêmica, currículo e mercado de trabalho, finalizando com uma avaliação geral sobre a satisfação com a Coordenação do curso.
+
+Em relação à coordenação e à infraestrutura, a métrica de avaliação utilizada pela Coordenação de Sistemas de Informação soma a porcentagem de ocorrências de “Concordo totalmente” e “Concordo” e considera como passíveis de melhorias todos os itens cujo valor for abaixo de 80%.
+
+Quanto à autoavaliação realizada pelos discentes, eles respondem sobre o seu nível de assiduidade, pontualidade, envolvimento e esforço na disciplina, o nível em que os seus conhecimentos prévios contribuíram para o aprendizado e a ampliação dos conhecimentos, e sobre as competências e habilidades deles como resultado do que foi visto na disciplina.
+
+Os docentes também avaliam seu próprio trabalho e os alunos das disciplinas que ministram. Respondem se os alunos foram assíduos e pontuais, se demonstraram motivação para o aprendizado, envolvimento com as atividades de ensino-aprendizado e responsabilidade na execução das atividades acadêmicas solicitadas, se tiveram postura adequada ao processo de ensino e aprendizado e se tinham as competências cognitivas adequadas para cursar a disciplina.
+
+#### A ação da Coordenação
+A coordenação tem um papel fundamental no processo de avaliação, ao analisar os dados dos relatórios da Autoavaliação Institucional e promover a participação massiva dos discentes, para a promoção da melhoria dos cursos. A Coordenação promove uma série de ações para conscientizar os alunos da importância da participação na Autoavaliação Institucional. 
+
+**_Durante os últimos anos, além da divulgação comum em sala de aula, foram realizadas campanhas nas redes sociais, com tom bem-humorado e utilizando imagens e bordões dos professores do curso, que surtiram significativo efeito antes do cenário de pandemia de COVID19: em 2017.1, 70% dos alunos do curso participaram da avaliação, o que representa um crescimento de 12% em comparação ao semestre anterior, colocando o curso como um dos mais participativos da UFC no processo de avaliação daquele semestre._**
+
+Idealmente, a Autoavaliação Institucional busca a participação responsável e efetiva da maioria dos seus agentes, egressos, discentes, docentes e servidores técnico-administrativos. O objetivo é construir uma cultura interna favorável à autoavaliação, que possibilitará maior conscientização acerca da missão, bem como das finalidades acadêmica e social da UFC, consolidando assim a noção de que a Autoavaliação Institucional é importante via para a reflexão coletiva e, por conseguinte, para o planejamento institucional participativo.
+
+Além da campanha de sensibilização, esse bom resultado é creditado também à política de divulgação dos resultados do processo. Semestralmente, a coordenação, após a sistematização dos dados, reúne-se com o corpo discente e os apresenta num evento chamado “Seminário de Autoavaliação Institucional”, onde são respondidas questões sobre a importância da avaliação, como os discentes podem participar e as ações a serem tomadas a partir das informações recolhidas.
+
+Durante o seminário, a Coordenação do curso apresenta a comparação entre os resultados das avaliações dos discentes, com o resultado do campus e os da UFC. Esses seminários também são oportunidades para discutir com os alunos questões gerais sobre o curso e sobre o PPC, contando inclusive como atividade complementar na categoria Vivências em Gestão, pois considera-se que esse momento aproxima os alunos do acompanhamento e dos processos de tomada de decisão do curso.
+
+#### Métricas e metas de avaliação
+A partir da análise dos dados, são estabelecidas metas de resultados positivos e negativos para cada quesito avaliado, e tomadas atitudes em caso de má avaliação. Por exemplo, se o um docente tiver uma avaliação negativa na dimensão “Planejamento pedagógico, didático e domínio do conteúdo”, isso implica que a coordenação analise a situação sobre dois cenários: primeiro, quando o professor se autoavalia com ótimo desempenho, tem-se uma situação que exige intervenção imediata da coordenação; já quando o professor se autoavalia reconhecendo suas dificuldades, caracteriza-se como um caso menos grave, implicando em outro tipo de intervenção por parte da coordenação. A partir da distinção dos diferentes cenários, o Coordenador tem informações objetivas que permitem melhor gerenciar as potencialidades do corpo docente e favorecer a melhoria contínua de suas atividades.
+
+Uma novidade importante nos últimos processos avaliativos promovidos pela universidade foi a implementação de um campo aberto, no qual os estudantes podem fazer comentários diretos, utilizando as próprias palavras, sobre o item que estão avaliando. Todo o processo avaliativo é feito de maneira anônima e nem docente nem coordenação são capazes de identificar o discente avaliador.
+
+A análise conjunta dos diferentes dados da Autoavaliação Institucional proporciona subsídios importantíssimos para a gestão efetiva do curso. A partir desses resultados e das reuniões de apresentação, é elaborado um Plano de Melhorias, que é acompanhado pela CPA, com ações de melhoria e cronograma de trabalho aprovados pelo Colegiado do curso e pelo NDE.
+
+#### Avaliação das Condições de Ensino dos Cursos de Graduação (ACE)
+**_Quanto à ACE, mesmo sem ter passado ainda por essa avaliação, o curso dispõe de informações relevantes oriundas da ACE de outros cursos do campus. Antes da criação do curso, quatro cursos haviam sido implantados os quais já passaram por processo de reconhecimento. Os resultados das avaliações externas de cursos são analisados no âmbito da Coordenadoria Acadêmica do campus, em conjunto com coordenadores de todos os cursos, e, desse debate, surgem ações a serem implementadas no âmbito institucional ou de cada curso. Dessa forma, tanto os já reconhecidos como aqueles ainda não reconhecidos, se percebem sendo avaliados e evoluindo, juntos e continuamente._**
+
+Na área administrativa, há um esforço contínuo de mapeamento de processos, que naturalmente induz à melhoria das rotinas do curso. Regularmente, também são realizadas pesquisas socioeconômicas com discentes, que apontam as principais questões acadêmicas e sociais, que interferem no desempenho ou permanência do aluno no curso.
+
+## Infraestrutura do Curso
+
+Devido à constante evolução das tecnologias, é imprescindível que os estudantes disponham de equipamentos modernos, interligados em rede e com livre acesso à Internet. O curso dispõe de recursos computacionais variados em termos de complexidade e capacidade. Isto inclui laboratórios com várias estações de trabalho, laboratórios de prototipação, dentre outros.
+
+O Campus da UFC em Quixadá conta com uma estrutura física que contempla um estacionamento com vagas para carros de passeio (algumas reservadas para pessoas com deficiência), vagas para motocicletas, vagas para ônibus e bicicletário; espaço de convivência que acomoda a cantina e salas de centro e diretório acadêmico; cinco blocos, sendo quatro blocos didáticos medindo 1400 m², cada um, e um bloco administrativo medindo 1500 m². 
+
+Todos os blocos contam com dois pavimentos, térreo e superior.
+
+Portanto, o Campus da UFC em Quixadá conta hoje com a infraestrutura arquitetônica descrita abaixo:
+
+- Bloco I (1400 m²): salas de aula, salas de projetos (PET, PACCE), salas para serviços (secretaria acadêmica, videoconferência), banheiros, gabinetes para professores, laboratórios, copa, plataforma elevatória, sala de telemática.
+- Bloco II (1400 m²): salas de aula, salas de estudo individuais e em grupo, biblioteca, salão multiuso, banheiros, gabinetes para professores, laboratórios, copa, plataforma elevatória, sala de telemática.
+- Bloco III (1400 m²): salas de aula, banheiros, gabinetes para professores, laboratórios, ateliês/salas de desenho, copa, plataforma elevatória, sala de telemática.
+- Bloco IV (1400 m²): salas de aula, salas de projetos / salas do NPI, banheiros, almoxarifado, gabinetes para professores, laboratórios, copa, plataforma elevatória, sala de telemática. Pós-graduação: sala de estudos, laboratório, sala de seminários.
+- Bloco Administrativo (1500 m²): refeitório universitário, salas para serviços acadêmicos e administrativos (venda de tickets, direção, secretaria da direção, prefeitura, coordenação de programas acadêmicos, núcleo de TIC), salas das coordenações dos cursos de graduação e pós-graduação, sala de reuniões, sala de seminários, sala de projetos de Pesquisa, Desenvolvimento e Inovação, laboratório de redes de alta velocidade, salas de atendimento do NAS (nutrição, serviço social, serviço de psicologia), copa, banheiros, plataforma elevatória, sala de telemática.
+- Área de Convivência (500 m²): cantina, salas de centros e diretórios acadêmicos, área comum coberta, banheiros.
+- O campus encerrou o ano de 2017 com 332 equipamentos eletrônicos para atender a demanda interna, quais sejam: 36 notebooks; 33 projetores; 238 desktops; 06 máquinas servidoras para telemática; 16 aparelhos telefônicos VOIPs DDR; 03 nobreaks. Os equipamentos de TI estão distribuídos em salas administrativas e nos laboratórios apresentados adiante.
+
+As seções a seguir descrevem os vários ambientes e condições estruturais que contribuem diretamente para a formação do aluno de Sistemas de Informação.
+
+### Salas de Aula
+Considerando-se os blocos didáticos I a IV, o campus disponibiliza 17 (dezessete) salas de aula, onde ocorrem prioritariamente as aulas teóricas. Algumas salas comportam confortavelmente até 60 alunos e outras, 30, de maneira a atender às necessidades institucionais e do curso de Sistemas de Informação. As salas de aula passam por limpeza diária e manutenção periódica, além da disponibilidade de recursos tecnológicos adequados às atividades desenvolvidas: a maior parte dispõe de projetores digitais instalados e duas delas possuem sistema de som integrado. As cadeiras podem ser dispostas em diferentes configurações, oportunizando distintas situações de ensino-aprendizagem. Outras atividades didáticas podem acontecer na Sala de Seminários (bloco administrativo), sala multiuso, sala de videoconferência, além de nos laboratórios, especificados a seguir.
+
+### Laboratórios
+Os laboratórios dispõem de equipamentos suficientes para o atendimento de no máximo dois alunos por estação de trabalho durante as aulas práticas de laboratório. Em termos de recursos, os laboratórios propiciam aos estudantes o contato com diferentes plataformas operacionais e de desenvolvimento de software, além de acesso à Internet. No total, há seis laboratórios de computadores para uso didático, todos com projetores digitais. Dois deles estão equipados com 30 computadores cada, outro com 20 e outro com 25 computadores. Dos seis laboratórios, cinco são destinados continuamente a aulas e um é considerado como estrutura de apoio, na qual é totalmente disponível apenas para uso dos discentes, que podem realizar estudos, pesquisas e desenvolvimento de trabalhos em horários extraclasse. Nos blocos III e IV, existem mais três laboratórios de informática à disposição.
+
+A manutenção dos laboratórios é feita em dois sentidos: estruturalmente, o controle é realizado por meio de levantamento patrimonial da Universidade, identificando o estado de conservação e local onde se encontra cada unidade registrada. Problemas relacionados ao desgaste físico de materiais são solucionados pontualmente, sob demanda. Já em relação à manutenção e atualização de software, anualmente os computadores são formatados e os programas necessários são instalados de acordo com a requisição dos docentes, de modo a manter as máquinas rápidas e atualizadas com as versões mais recentes de sistemas operacionais e programas requeridos. Isso também mantém as instalações acadêmicas em sintonia com as tecnologias que são encontradas no mercado de trabalho.
+
+Com relação ao ambiente de software, os alunos do curso dispõem de uma grande variedade de softwares e serviços que representam a realidade do mercado e o estado da arte nas áreas aplicadas e de desenvolvimento. Através do e-mail institucional no domínio @alu.ufc.br, o aluno pode fazer cadastro nos programas estudantis da Microsoft (DreamSpark) e Amazon (AWS Educate). O Campus já se encontra devidamente cadastrado nesses programas, sendo que os alunos têm acesso a pacotes de software sem o custo da licença e também a créditos para serviços de Nuvem. Ambos os privilégios já estão devidamente incorporados nas práticas das disciplinas.
+
+### Laboratórios Especializados
+O campus conta com laboratórios especializados dos cursos de Redes de Computadores, Design Digital e Engenharia de Computação. Os laboratórios do curso de Design Digital são voltados ao aprendizado e à realização de projetos específicos às práticas em design, arte, expressão plástica e comunicação. Conta-se também com um salão multiuso com 49 mesas e cadeiras de desenho, com espaço suficiente para diferentes arranjos, a depender das necessidades didáticas do curso de Design Digital. Existe também um ateliê de desenho; um laboratório de experimentação em design (para trabalhos manuais); e um laboratório de estudos em Interação Humano-Computador (com sala de observação e de teste). A médio e longo prazo, estão previstos: um laboratório de edição de imagens; um estúdio de práticas audiovisuais. 
+
+Além desses, o campus possui laboratórios específicos do curso de engenharia de computação: um laboratório de sistemas de eletrônica analógica e digital; um laboratório de arquitetura de computadores e microprocessadores; e um laboratório de robótica e sistemas pervasivos. Tais laboratórios não se destinam de maneira imediata ao curso de Sistemas de Informação, mas podem ser utilizados indiretamente para projetos interdisciplinares e intercursos, tendo em vista a própria evolução técnico-científica inerente às atividades de pesquisa, ensino e extensão.
+
+### Conectividade à Internet
+Todos os espaços do Campus da UFC em Quixadá contam com acesso à Internet sem fio (Wifi), estando o campus conectado por um link de 200 Mbps ao Cinturão Digital do Ceará (CDC) e, através deste, com a Rede Nacional de Pesquisa e à Internet. Isso significa que há redes disponíveis nas salas de aula, nos laboratórios, na biblioteca e em demais partes do campus, com acesso livre e descomplicado.
+
+### Estruturas de hospedagem e computação em nuvem
+O Campus da UFC em Quixadá oferece também uma estrutura para experimentos baseados em computação em nuvem, a Cloud-Quixadá, gerenciada com software OpenNebula e constituída de 6 máquinas, somando um total de 6 processadores (24 núcleos de processamento), 56 GB de memória RAM e 5 TB de armazenamento em disco. O campus tem acesso à nuvem Cloud-UFC, localizada em Fortaleza, e ao Centro Nacional de Processamento de Alto Desempenho na UFC (CENAPAD-UFC), também em Fortaleza. Essas estruturas físicas e virtuais possibilitam a realização de experimentos que necessitem ou explorem condições de dados em nuvem, que se mostra uma das áreas de grande avanço em computação na atualidade.
+
+O campus também conta com serviços de hospedagem de subdomínio, para o caso de estudos e projetos que necessitem de páginas web como forma de divulgação ou experimentação. Professores e alunos contam com apoio do Núcleo de Tecnologia da Informação e Comunicação (NTIC) do campus para a configuração dos recursos necessários a essas estruturas e acesso simplificado dentro e fora do campus.
+
+O campus de Quixadá está credenciado no programa AWS Academy, parceria com a Amazon Web Services. Os professores cadastrados podem criar laboratórios virtuais nos quais os alunos têm acesso aos principais serviços da nuvem AWS.
+
+Professores e alunos contam com apoio do Núcleo de Tecnologia da Informação e Comunicação (NTIC) do campus para a configuração dos recursos necessários a essas estruturas e acesso simplificado dentro e fora do campus.
+
+### Biblioteca
+A Biblioteca Universitária (BU) da UFC é um órgão subordinado à Reitoria, a qual compete prover a universidade de um sistema central de informação consolidado, de forma a proporcionar serviços biblioteconômicos e documentais eficientes que possibilitem o desenvolvimento das atividades de ensino, pesquisa e extensão. Este é o órgão responsável por gerenciar todas as bibliotecas da universidade, mantendo acervos especializados tombados e catalogados que visam atender a demanda da comunidade acadêmica em geral.Seus serviços são direcionados ao atendimento de alunos, docentes, servidores técnico-administrativos e pesquisadores da instituição. Atualmente o Sistema de Bibliotecas da UFC conta com 19 Bibliotecas Setoriais distribuídas entre seus sete campi, em Fortaleza e no interior do estado.
+
+A Biblioteca Universitária tem em sua estrutura vários setores (diretorias, secretarias, divisões e seções), com atribuições diversas. Em relação ao registro, catalogação e manutenção do acervo, são executadas ações como: a) classificar o material bibliográfico e documental; b) catalogar, de acordo com as normas vigentes, os conteúdos informacionais do Sistema de Bibliotecas da UFC; c) desenvolver ações educativas voltadas para a sensibilização dos usuários em relação à necessidade de preservação do acervo; d) executar as ações de preservação, conservação preventiva, reparadora e restauração dos acervos documentais e bibliográficos.
+
+Além de cuidar do acervo bibliográfico em si, a BU também auxilia no processo de acompanhamento das bibliografias básicas e complementares dos componentes curriculares dos cursos de graduação da UFC. Neste sentido, são atribuições de setores da BU, por exemplo: a) organizar, manter e atualizar na biblioteca os arquivos dos planos de ensino dos cursos de graduação; e b) analisar as bibliografias do plano de ensino conforme os critérios do Instrumento de Avaliação de Cursos de Graduação Presencial e a Distância do MEC. Este é um dos esforços da biblioteca para, juntamente com a Coordenação, o Colegiado, o NDE e as UC do curso, manter o acervo das bibliografias básica e complementar adequado e atualizado em relação aos componentes curriculares e aos conteúdos previstos no PPC do curso.
+
+#### Atribuições
+Também faz parte do rol de atribuições da BU promover a atualização do material bibliográfico e documental através de compras. Para isso, ações como as listadas abaixo são executadas: a) receber e preparar a solicitação de compra de material bibliográfico e documental, mediante indicação das sugestões do corpo docente, discente e técnico-administrativo em educação; b) elaborar o processo de licitação do material bibliográfico; c) acompanhar o processo de compra e recebimento de material bibliográfico.
+
+Por fim, todo o trabalho de controle, manutenção e ampliação do acervo exige atividades de gestão que auxiliem os processos de tomada de decisão. São necessárias, portanto, ações como: a) coordenar e controlar os relatórios patrimoniais do material bibliográfico do Sistema de Bibliotecas da UFC; b) coordenar o inventário anual do material bibliográfico e documental; c) coletar e analisar os dados gerados a partir dos relatórios automatizados, mantendo estatísticas que subsidiem estudos na área.
+
+Além das atribuições próprias da BU, a administração de cada Biblioteca Setorial, como é o caso da Biblioteca do Campus de Quixadá (BCQ), tem em sua estrutura a Diretoria Setorial, a Seção de Representação Descritiva e Temática da Informação, a Seção de Atendimento ao Usuário, a Seção de Preservação, Conservação e Restauração do Acervo, a Seção de Coleções Especiais e a Seção de Atendimento às Pessoas com Deficiência. Algumas funções básicas de gestão do acervo desempenhadas por algumas das Seções mencionadas são:
+
+- Catalogar e classificar, de acordo com as normas vigentes, todo o conteúdo informacional pertinente a área de atuação da biblioteca;
+- Realizar estudo da bibliografia adotada nos cursos atendidos pela biblioteca setorial e propor a aquisição do material bibliográfico que preencha os requisitos necessários ao pleno desenvolvimento das disciplinas ofertadas;
+- Acompanhar os relatórios mensais de aquisição de material bibliográfico;
+- Manter atualizado os repositórios locais, nacionais e internacionais;
+- Supervisionar os serviços de atendimento ao usuário no que diz respeito à circulação de material bibliográfico;
+- Orientar os usuários na busca de informações e no uso dos acervos existentes nas Bibliotecas do sistema e fora delas, auxiliando-os em suas necessidades de estudo e pesquisa;
+- Localizar e fornecer documentos e informações solicitadas;
+- Desenvolver ações educativas voltadas para a sensibilização dos usuários em relação à necessidade de preservação do acervo;
+- Zelar pela conservação e funcionamento de equipamentos, máquinas e aparelhos da Seção.
+
+#### Sistema de Gestão de Aquisição de Livros
+Em relação ao processo de aquisição de material bibliográfico, o campus dispõe de um sistema específico (Gestão de Aquisição de Livros – GAL), para auxiliar no processo de compras. Neste sistema, todas as disciplinas e toda a bibliografia de todos os cursos são cadastrados. Registra-se também os títulos que se deseja para a compra. Baseado nesses dados, o sistema compara a quantidade de exemplares existente no acervo com a quantidade necessária, sugerindo assim a quantidade de exemplares a ser adquirida. O GAL é mais um sistema inovador, desenvolvido no campus, para auxiliar os processos administrativos e acadêmicos dos cursos que aqui estão.
+
+#### Cursos e Eventos
+Além destas funções administrativas, a Biblioteca Universitária realiza, periodicamente ou sob demanda, cursos e treinamentos de capacitação no uso otimizado dos recursos informacionais para alunos, professores e técnico-administrativos. Alguns treinamentos específicos fazem parte do calendário oficial da BU: Normalização de Trabalhos Acadêmicos, Referências e Citações, Treinamento em Bases de Dados. Além destes, a Biblioteca promove o projeto “Descobrindo a Biblioteca”, que acontece sempre no início de cada semestre letivo e visa apresentar aos novos alunos os serviços ofertados pelo Sistema de Bibliotecas da UFC. São abordados conteúdos como: regulamento, guia de serviços, acervo, catálogo on-line, meios de acesso do usuário, livros eletrônicos, eventos da Biblioteca Universitária, dentre outros. A iniciativa faz parte da programação de recepção dos recém-ingressos, que tradicionalmente inclui cursos e palestras em suas unidades acadêmicas.
+
+[](update)
+
+Especificamente, em Quixadá, além de todas as iniciativas listadas acima, desde 2013, a Biblioteca do campus promove a “Maratona do Conhecimento do Sertão Central”, que em 2018 estava em sua quinta edição. O objetivo do evento é difundir ferramentas e fontes de informação acadêmica, promovendo assim o desenvolvimento de habilidades relacionadas à busca, acesso e utilização de informações para construção do conhecimento.
+
+O curso dispõe de acervo atualizado, contemplando títulos adotados como bibliografia básica e complementar devidamente indicados nas ementas das disciplinas. Além dos livros físicos, a biblioteca do campus oferece acesso a plataformas online nas quais se encontram livros eletrônicos e artigos de periódicos voltados às principais temáticas abordadas em sala de aula.
+
+[](update)
+Em meados de maio de 2018, a BCQ possuía um acervo de 8.748 exemplares físicos, correspondentes a 1.293 títulos, principalmente nas seguintes áreas do conhecimento: Ciências Exatas e da Terra, Engenharias, Ciências Sociais Aplicadas, Ciências Humanas, Linguística, Letras e Artes. 
+
+Em relação à infraestrutura física, a BCQ conta com salão de estudo climatizado e computadores disponíveis para consulta ao catálogo eletrônico. Além disso, a biblioteca é responsável por gerenciar a ocupação das salas de estudo em grupo disponíveis aos discentes. Vê-se, portanto, que os eventos e treinamentos promovidos, as ações de conscientização e a infraestrutura de acesso aos títulos bibliográficos e de acomodações físicas são exemplos de soluções de apoio à leitura, estudo e aprendizagem disponibilizados pela biblioteca aos discentes e demais membros da comunidade acadêmica.
+
+Em 2018, a equipe da BCQ, conta com quatro servidores, duas bibliotecárias e dois assistentes em administração.
+
+#### Acervos digitais
+Todo o acervo físico do Sistema de Bibliotecas da UFC está catalogado e disponível digitalmente para a comunidade acadêmica. Através do sistema [Pergamum](https://pergamum.ufc.br/pergamum/biblioteca/index.php), os usuários acessam o catálogo online do Sistema de Bibliotecas da UFC, ou seja, os registros de todo o acervo das bibliotecas, inclusive documentos eletrônicos em texto completo, tais como: livros, teses e dissertações, monografias, periódicos, artigos, obras raras e CDs/DVDs, dentre outros. 
+
+Além do acervo físico, os usuários das bibliotecas da UFC têm acesso a um enorme conjunto de material digital, conforme descrito a seguir.
+
+#### Portal de acesso a conteúdo científico digital
+A UFC oferece materiais de estudo por meio de acesso às coleções das editoras [Atheneu, Zahar e Springer](http://ufc.dotlib.com.br/). O acesso interno é feito de qualquer dos campi da UFC. Para acesso remoto, alunos e professores podem realizar configurações de Proxy, por meio de CPF e senha do sistema acadêmico SIGAA/SIGPRH. Assim, todos os alunos matriculados possuem acesso eletrônico a livros e artigos disponibilizados nessas plataformas que, atualmente, contam com mais de 8.500 títulos, em texto completo, de acesso perpétuo, que podem ser pesquisados pelos usuários no ambiente da UFC ou de qualquer ponto de Internet, sem limites de utilização, visualização ou restrições de usuários simultâneos.
+
+#### Periódicos
+A biblioteca do campus também assina três periódicos impressos, atualmente com um total de 33 exemplares: ACM Media – Communication of the ACM; Journal of the Brazilian Computer Society; Revista Expressão Católica do Centro Universitário Católica de Quixadá. A biblioteca conta ainda com acesso online às 27 revistas de publicação própria da UFC, por meio do [Portal de Periódicos da UFC](http://periodicos.ufc.br/).
+
+Além disso, professores e alunos contam com acesso ao [Portal Periódicos da CAPES](http://www-periodicos-capes-gov-br.ez11.periodicos.capes.gov.br/index.php?option=com_phome&Itemid=68&), que disponibiliza documentos periódicos (internacionais e nacionais), livros eletrônicos, bases de dados contendo artigos, referências e resumos de trabalhos acadêmicos e científicos, normas técnicas, patentes, teses e dissertações e outros tipos de materiais, em todas as áreas do conhecimento. O acesso interno é liberado automaticamente por meio de faixa de IPs da UFC, já o acesso remoto é liberado por meio da Comunidade Acadêmica Federada (CAFe).
+
+#### Teses e dissertações
+Finalmente, há o Repositório Institucional ([RI](http://www.repositorio.ufc.br/)) da UFC, de acesso aberto via Internet, que tem como propósito reunir, armazenar, organizar, recuperar, preservar e disseminar a produção científica e intelectual da comunidade universitária (docentes, pesquisadores, técnicos e alunos de pós-graduação stricto sensu) pertencente à UFC. Atualmente conta com mais de 56.000 documentos, dentre estes, artigos de periódicos, dissertações, teses, capítulos de livros, artigos publicados em eventos, além das monografias e trabalhos de conclusão dos cursos de graduação da UFC. Dessa forma, o corpo discente tem acesso imediato a produções de alunos situados em outros campi da UFC.
+
+#### Outros recursos digitais
+Além das fontes de bibliografia digital destacadas acima, a Biblioteca Universitária disponibiliza ainda os seguintes recursos:
+- [Portal de Livros Eletrônicos UFC](http://livros.ufc.br/ojs/): acesso aos Livros da Coleção de Estudos da Pós-Graduação da Universidade. Acesso livre.
+- [Coleção de Normas ABNT](http://www.abntcolecao.com.br/ufc/): acesso a mais de 9.000 Normas Técnicas Brasileiras e Normas Técnicas do Mercosul em texto completo. Acesso remoto via proxy.
+- [Biblioteca Virtual em Saúde (BVS)](http://bvsalud.org/): acesso a fontes de informação online para a divulgação do conhecimento científico e técnico na área de Ciências da Saúde. Acesso livre.
+
+#### Biblioteca acessível
+A fim de proporcionar ambientes de estudo adequados e um maior acesso à informação aos usuários com deficiência, o Sistema de Bibliotecas da UFC oferece um atendimento pautado na prestação de serviços especializados, na aquisição de equipamentos e tecnologias assistivas desenvolvidas especialmente para esses usuários e na inserção da acessibilidade arquitetônica em suas edificações.
+
+Neste contexto, os alunos com necessidades especiais podem contar com os seguintes especializados, oferecidos em parceria com a Secretaria de Acessibilidade da UFC:
+
+- Digitalização e conversão de materiais bibliográficos em formatos acessíveis: neste serviço a bibliografia solicitada pelo professor passa pelo processo de digitalização e/ou edição e é convertida em arquivo digital acessível para posteriormente ser disponibilizada no catálogo da Biblioteca Universitária com acesso restrito aos usuários com deficiência visual.
+- Orientação à pesquisa bibliográfica para usuários com deficiência visual: serviço realizado mediante treinamentos de uso das bases de dados on-line do Portal da CAPES, Biblioteca Digital de Teses e Dissertações (BDTD) e livros eletrônicos com o auxílio de softwares leitores de tela.
+- Levantamento bibliográfico para usuários com deficiência visual: o serviço consiste na pesquisa bibliográfica demandada pelos usuários com deficiência visual, transformada posteriormente em arquivo digital acessível para seu uso exclusivo.
+
+Em relação a recursos e tecnologias assistivas, a Biblioteca Universitária disponibiliza: a) nos terminais de consulta online, programas leitores de telas; b) recurso de transcrição de textos em Braille, com impressoras Braille à disposição dos alunos (em Fortaleza); c) recurso de acessibilidade linguística, através do projeto “Descobrindo a Biblioteca em Libras”, com a apresentação dos serviços oferecidos pelas bibliotecas para a comunidade acadêmica por uma intérprete da Língua Brasileira de Sinais (Libras).
+
+Especificamente na BCQ, os alunos com deficiência visual têm acesso a um equipamento para leitura autônoma, instalado na biblioteca. Em relação à acessibilidade arquitetônica, a biblioteca tem portas de acesso largas, balcões e mesas de estudo rebaixados, espaço de circulação amplo entre prateleiras, placas com inscrições em Braille e piso tátil.
