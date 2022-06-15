@@ -2,6 +2,7 @@
 - [Gestão Acadêmica do Curso](#gestão-acadêmica-do-curso)
     - [Coordenação do Curso](#coordenação-do-curso)
     - [Colegiado do Curso](#colegiado-do-curso)
+    - [Núcleo Docente Estruturante - NDE](#núcleo-docente-estruturante---nde)
 [](toc)
 
 
