@@ -24,7 +24,7 @@
         - [Programa de Desenvolvimento Institucional em Tecnologia da Informação](#programa-de-desenvolvimento-institucional-em-tecnologia-da-informação)
         - [Programa de Iniciação à Docência (PID)](#programa-de-iniciação-à-docência-pid)
         - [Programa Institucional de Bolsas de Iniciação Científica (PIBIC)](#programa-institucional-de-bolsas-de-iniciação-científica-pibic)
-        - [Programa de Bolsa Iniciação Acadêmica](#programa-de-bolsa-iniciação-acadêmica)
+        - [Programa Bolsa de Iniciação Acadêmica](#programa-bolsa-de-iniciação-acadêmica)
         - [Programa Bolsa de Incentivo ao Desporto](#programa-bolsa-de-incentivo-ao-desporto)
         - [Programa de Acolhimento e Incentivo à Permanência (PAIP)](#programa-de-acolhimento-e-incentivo-à-permanência-paip)
     - [Assistência em Acessibilidade](#assistência-em-acessibilidade)
@@ -265,7 +265,7 @@ Podem concorrer às quotas de bolsa, além de docentes, servidores técnico-admi
 
 Nos últimos anos, os editais PIBIC reservam 20% das cotas de bolsa da UFC para estudantes dos campi no interior do estado. 
 
-#### Programa de Bolsa Iniciação Acadêmica
+#### Programa Bolsa de Iniciação Acadêmica
 O Programa Bolsa de Iniciação Acadêmica tem por objetivo propiciar aos estudantes de cursos de graduação presenciais da UFC – em situação de vulnerabilidade socioeconômica comprovada, especialmente os de semestres iniciais – condições financeiras para sua permanência e desempenho acadêmico satisfatório, mediante atuação, em caráter de iniciação acadêmica, nas diversas unidades da instituição. Em 2017, um total de 80 alunos do campus tiveram acesso a essa modalidade de bolsa.
 
 #### Programa Bolsa de Incentivo ao Desporto
